@@ -8,7 +8,7 @@
 - **Database:** MySQL / PostgreSQL  
 - **Authentication:** JWT-based secure login  
 
-**Duration:** 3 months (Jan 2025 – Mar 2025)
+
 
 ---
 
