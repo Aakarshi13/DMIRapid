@@ -1,0 +1,2702 @@
+[33mc647e1dc[m[33m ([m[1;36mHEAD -> [m[1;32mgautam-latest[m[33m, [m[1;31morigin/gautam-latest[m[33m)[m post disbursal and deviation
+[33m670720aa[m post disbursal payment status
+[33mc383b226[m disbursal work
+[33mfe76c953[m employment chnages
+[33m269dff94[m employment reload error
+[33m533ed2d7[m employment suggestions fix
+[33mab4fbd07[m employment defaulter company
+[33m039a80d5[m balance fee error fix
+[33mea9dbfc9[m balance fee chnage by abhishek
+[33mf5b59643[m deposite slip doc show
+[33m716e3c2f[m permission and doc upload and form update
+[33m8f784ac4[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into gautam-latest
+[33m9d537565[m[33m ([m[1;31morigin/dev[m[33m)[m Minor Changes
+[33m67e8431c[m ballance fee update
+[33m5bf4f843[m crud and design update
+[33m29d6f886[m Loan Processing UI
+[33mc2a0ee01[m expense work
+[33mb6410c36[m conflict resolve
+[33ma9ece1b4[m ballance fees design
+[33m31e4c52a[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m8fe6e5e7[m Loan Processing and Disbursal Condition
+[33meae67c3f[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33ma5447a89[m No. of bounces labels
+[33me50223c6[m Ach makerChecker
+[33m1a84ea6f[m Personal: is Employee Validity fix
+[33m1b224d07[m Liability & Asset : No. of bounces logic change
+[33mb9558344[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m48f8815a[m ACH Permissions
+[33m55d2c9a0[m New: Disbursal Deviation
+[33mf5828c8b[m Disbursal Memo - UI Layout change
+[33mc0e99669[m Personal Requied Fields
+[33m1e75ee23[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33me13f766b[m Personal : Required field Validation : Proposed Property Owner and Negative/Caution Profile
+[33mc888161b[m Disbursal UI changes
+[33mbecfa71c[m Employee Loan seperate form
+[33mea349b6c[m Construct Type Validaty Fix
+[33m99e37e7c[m[33m ([m[1;32mdev[m[33m)[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mc6146db8[m Query - head
+[33m8bc7124e[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m09c19c90[m Checkist Major Bug
+[33m07ac9b19[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33ma616e7bb[m Construction Type in Loan Information
+[33m2ca865e5[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m1b2e3883[m search api :ndc
+[33ma4afea6a[m Post Hit Bug
+[33md78d85a8[m Docket API change
+[33m502c6aa0[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33md7a2803c[m Ach upload fix
+[33m9b679be7[m Disbursal Condition
+[33mc91fada6[m Deleted Seperate ACH_Cheque screens
+[33m7d9e11b8[m NDC checklist - Refer back to API integration and POST paylod structure change
+[33m0dbbec94[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m98bda82b[m Employee Loan card visiblity
+[33m11fbbde1[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mb422265a[m NDC changes
+[33mf06dd7b9[m ACH maker-checker Validations
+[33m136f4660[m Business Checklist, Docket Checklist and NDC checklist
+[33m5f0bcdfb[m Ach Changes
+[33mbec47ec2[m ACH Document Upload
+[33m2c11d6cd[m Login Fees: Validations Autoupdate
+[33me59dd7ce[m Checkbox spacing: IsEmployee
+[33m8d3dbe58[m isEmployee on Loan info and Personal
+[33m9a4cadac[m Ach Registration Request
+[33m0095e220[m Updated validations on Loan Acceptance Status
+[33m753b4094[m Business Checklist, Docket Checklist and NDC Checklist
+[33m97b61867[m Lead Bar Color - Mobile View
+[33m4479b239[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33ma4d5ce53[m Query Filter Managment
+[33m5f0362c7[m Query Managment - Filter
+[33m82bb20af[m NDC - API Change
+[33mb9b560a2[m Employment: Contact No. length
+[33m45900d28[m ACH_PDC POST API
+[33m5dd19476[m Income: isSecondIncomeProof value binded
+[33mb73b4e70[m Income: Form16 field moved to BankSalary only
+[33m8dfc931e[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33md74ea0a1[m New field Income: isSecondaryIncomeProof
+[33mb815928f[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mfa0b1f4f[m NDC Checklist- Suggested Changes
+[33m9fca2391[m Multiple Earner field moved to bottom
+[33m1685c028[m Employment: MultipleEarner on no. of Employee<10
+[33mfb2be7fe[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m1d60b579[m Roi waiver Requested validation on '%' char
+[33mc16ce1ba[m Pdc_Security Get api binding
+[33m25c5fd8b[m NDC Bug
+[33m3aadfe02[m Login Fees Payment: Updated Validations on Modes
+[33m92307973[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m8d683433[m NDC LIST API and BUGS
+[33mf4ffb60d[m Employment: Multiple Earner in Cash Salary
+[33m7327b954[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mef320ea6[m Pdc Cheque Details get api binded
+[33m6b7a207e[m Loan Acceptance: condition on 'Hold' status
+[33m1e926e72[m NDC checklist Search Bar
+[33mdc4763ad[m Ach get api binding
+[33m86fc8e2c[m Propertyvisit Image section move to middle
+[33m4235cbf2[m NDC checklist - Complete Post API Integration
+[33m284435e7[m Hunter : Final Status Wrong Mapping
+[33ma89f7597[m NDC-Checklist : Post API Integration - checklistDetail : checkList Array
+[33mba7a6bd7[m  Hunter Status Reason new field permissions
+[33m169ce71c[m CPV Doc size limit hardcoded changed to dynamic
+[33md9ed8dcb[m Hunter: hunterStatusReason new field validation
+[33m285164c3[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mc237349f[m ACH: Cards Redesign
+[33ma3d9ac6b[m Master: UserBranch Update Bug Fix
+[33m12465786[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mb74497f2[m NDC - Get API Integration and Logical Functions
+[33mefca534e[m AchPdcSecurity Get API binding
+[33m3ba410cf[m Hunter new Field : Hunter Status Reason
+[33mbd8a0c4c[m Underwriting - Deviation Delete Bug
+[33m1e04614b[m Property Visit API and Image Integration
+[33m84291d87[m CPV Firing Doc size limit 6mb
+[33mab742b51[m Disbursal Memo menu UI
+[33ma2f9d2e4[m Build error fix Property Verification
+[33mcfefd7ee[m Build error fix ACH
+[33mdff7dba9[m ACH: Added 3 New components
+[33m253c9dc2[m Sales officer, Credit officer and Channel Partner name : isResigned and IsActive Logic
+[33mcd3d5909[m Property Visit: Post api and Image cards
+[33m1fdef9ec[m CanSelect Dropdown: Login&Sanction screens
+[33mdbb8b9ec[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m1104904b[m Income Prediction Model - UI Change for fields height
+[33m6c2e71f2[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mcb983736[m ACH: New Cards and Modal
+[33m5b978445[m Technical : Save and Submit button
+[33mf37473c4[m Manage User - Update user password bug
+[33m9a305c7b[m Underwriting bug
+[33m70cee02a[m Employment: number of employee bug for bank salary
+[33m19133ae3[m Communication UI Changes
+[33m16c91e09[m Query Managment- LAtest UI Changes
+[33m470cc287[m employment: alignment
+[33mc7fe452b[m Query: User Search
+[33mb134f2e3[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m6db71e42[m Employment: UI changes
+[33mab5ab54e[m Query Managment - Assigned to Mapping
+[33mee6a3af9[m Query: Permissions & Code clean
+[33m29d08cf8[m Underwriting : Approve  Bug - Flag
+[33m12c975b4[m Query Management : Communication UI Change
+[33md94570f7[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mf1a9768f[m Underwriting : Bugs- Wrong implementation of payload(insert and update)
+[33m74471dba[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33me6a81c22[m Min 50 char error message
+[33m13b60e21[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m3af88f02[m Personal : Kyc null condition bug
+[33ma54341c6[m Deviation: Special Char Error message
+[33m3e98ba2d[m Employment : Number of Employee Required field
+[33m83cd11c8[m ROI Details - Additional Spread Bug
+[33m7dd73c46[m Employement: Cash salary - Number of Employee
+[33m1da090cd[m Query Management : Modal UI alignment
+[33ma9573b99[m Query: Pop-up for response
+[33m4e489885[m Push to LMS removed console
+[33m75cec3d1[m Push to LMS - Update
+[33m0eb5d83d[m Query: User List and searchbar
+[33m6538f8be[m Query: Response Buttons, Search bar
+[33mcc901d6e[m Query:Response Buttons
+[33m217eb743[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m2ee4812e[m Query : Response Post api
+[33m890cd912[m Forward LMS : Update logic Integration and button permissions
+[33mcd19577a[m Query Management : Get API Integration and data binding ( Query List and Assignment List)
+[33m7dd4e86a[m Query: Post api binding
+[33m9877b49a[m Login: Risk Categorisation Permissions Fix
+[33m2337adbb[m Login: Employment Details Remarks Validation Fix
+[33m85e69072[m Hot Fix - Loan Information Error handling
+[33mf05381f5[m Insurane CanSelect Agency Name
+[33m33ea7455[m Insurance CanSelect Logic for dropdown
+[33mc25c8621[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m4a9d43ce[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m67abb408[m Guarantor Bugs
+[33mfc04a7a4[m Ndc Checklist: Query card
+[33m07ef6d04[m AchChequeList: Added Modals
+[33m9ad5e00d[m ManageEmp: Added SalesforceEmpID field
+[33mc8ac8f8e[m Guarantor Production Bugs
+[33mc200374c[m Query Management Routing
+[33mfc8a26d4[m Build Error fix
+[33ma5b72777[m Sub menu icon changes
+[33ma56a84ac[m Conficts commit
+[33mbe0b7f79[m git-merge NDC-checklist
+[33m806ba40e[m Query Management UI
+[33me77eca37[m gitpropverification
+[33m22407191[m gitachcheque
+[33ma01a1385[m New Module : NDC Checklist UI
+[33m25217bb3[m Loan Eligibility Screen : Status change bug( Page reloading on POST)
+[33m1012ee47[m CAM : Reload on every user action
+[33m03b6b427[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33me2948ece[m Income Screen : Assesed Income Bug and "No Info Available" new Logic
+[33m2f121b0c[m Remarks Validation deviation justification
+[33mfe491b35[m risk Categorisation Permissions
+[33mdda0998b[m Income Prediction Model Button Permissions
+[33md665bf18[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33me44e0387[m CPV RCU Bug - Agency name displaying NA
+[33mb06b191a[m Risk Categorisation Card
+[33m7f89905b[m git
+[33m28bcff11[m RiskCategorisation field placement
+[33maf30bd8c[m Roi - Remarks Change
+[33mba00b750[m Income Model - ₹ and Button Color
+[33m89ba5f6a[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m51315bcf[m ROI Final enhacements and Bugs
+[33m702dafc4[m Risk Category Error Message
+[33m3e3006d0[m Application Number Search Bar - API call rate limit and min characters to search: 4
+[33m63e02abf[m Risk Categorisation dropdown in Loan Info
+[33m2a277dc4[m Bureau Generate Income
+[33ma8cfb545[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mac124e4f[m ROI WAiver Document Upload
+[33m916cd0a7[m Generate Income Response/Error handle
+[33m8f60a17c[m Roi Waiver multiple document upload
+[33mbbd956cc[m Bureau- Generate Income Model
+[33m9ab3d001[m Roi Waiver Details- Read only and Deviation Spread mapping in the approver's table.
+[33md526e150[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m6a7a6c36[m ROI SAVE1-SAVE
+[33m59b492d1[m WAiver ROI -Removed Console Logs
+[33me299f997[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m90331bc2[m ROI Details - waiverRequestConfirmation
+[33m37d75a48[m Loan Eligibility Status TypeDetailID fix
+[33mf8489612[m ROI details and Waiver Major Changes
+[33mec3794ee[m Bank Production bug for negative values in case of update
+[33mec832b69[m Roi Waiver : credit approval memo, UI and removed console logs
+[33m90edd575[m Roi Waiver - Request ID instead of Lead ID
+[33m42997cf8[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m02833b4e[m ROI Waiver- View more API and enahancements and bugs
+[33m8b3b9d0a[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m13dca74f[m Added Validation Messages in PropertyVerification
+[33m619653b0[m ROI Waiver - POST and multipe checkbox
+[33mb06a5e15[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m5edfb456[m ROI Waiver Request- GET,POST API Integration and ROI Waiver menu GET API Integration
+[33m0dddac38[m Remark field validation in Sanction
+[33m2725b6f8[m Created FormGroups,Validations
+[33m89c44548[m SpecialChar check on Remark/Address in LOGIN
+[33m867ffd2d[m Address and remarks control char check
+[33m5045ada4[m Card name changes and conosle logs
+[33m1095c686[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m70823e56[m Insurance - Relation with Insuree and Loaders
+[33m4d1a63cd[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33md8109b13[m Regular RTR validation removed
+[33md2c80558[m Regular_RTR field added to personal Screen
+[33m40893cbf[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mb5e6eb97[m Personal: New Kyc CARD  - Voter ID
+[33m1661452b[m Print Icon in Property Verification
+[33m121d3ae2[m Added A/C type CC to allow negative values
+[33mb4197ba7[m UrgentFix isMainApplicant flag fix
+[33mccc5eb8c[m Control Characters hot fix
+[33mffa51cab[m Removed Console logs
+[33ma1f80a87[m Cam: Remarks Validation
+[33mbcc834f6[m Personal : SameAsApplicantAddress, Loan-Acceptance- Remarks
+[33mc672e774[m Personal Address: same as applicant flag
+[33md05c5754[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m660feab1[m Disbursal - Loan Letters Component
+[33ma0696c20[m Print Button-Icon in property Verification
+[33m8c569e74[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m79da5584[m Loan Information Tvr Invalid Flag correction
+[33m00774ba4[m FormFields in property verification(Disbursal)
+[33m4953a8f2[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mba5f1dad[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m8b987e45[m De-Dupe Modal change
+[33mcbdfb1ad[m Changed formfields in Property Verification( Disbursal)
+[33m70a6e6e9[m Commented Fields on Manage Employee
+[33mdc82fd34[m Loan Information : TVR Section Logic change
+[33md599b3e3[m Bank Screen Bug
+[33me5c7fd66[m Sharing Kitchen with Applicant
+[33ma71e8cac[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m2bab4530[m Loan Info : TVR  Status Changes
+[33ma03dd597[m Sharing Same Kitchen removed for Main Applicant
+[33mc6130910[m Log out bug for Reports
+[33m15c3dfa9[m Property Verification Module UI Work
+[33m02222199[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mdd778ac8[m Property Verification Module UI Work
+[33m433973fa[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33mdfacf27d[m[33m ([m[1;31morigin/harshdeep[m[33m)[m isPensioner field specific  employment changes
+[33m99e46fb7[m Delete functionality changes on bank details and Deviation&Sanction screen
+[33mc4e3bdb3[m Cibil & Experia condition changes of guarantor module
+[33maef8dca0[m Personal new field - Sharing same kitchen ( Yes / No)
+[33ma52021cf[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into dev
+[33mfc007196[m Header ui correction for mobile & downloading cam report confirmation control
+[33m1ff47c73[m Personal : Sharing same kitchen with applicant
+[33m1dd2b436[m Insurance: Middle Name ( Nominee and Appointee)
+[33me226180d[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m14d5a85c[m Mobile specific 'report downloading' work
+[33mc135a8ba[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m817521d0[m Appiled dirty condition on final save and stop duplicate entry Modules: Loan Info, login fee, property, cam, loan appraisal, pd-report, deviation & sanction, deviation on cam, waiver-details,technical firing
+[33m7aff7bef[m Merge pull request #555 from dmihfc/pre-prod
+[33m424c78d2[m Login Fee : Post and Put API error handling
+[33ma43c9492[m Login Fee : Post and Put API error handling
+[33m6f7e34c7[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m3a2afffd[m guarnator module employment section condition changes
+[33m18ed42df[m Applied dirty condition on save button of deviation on  CAM screen
+[33md3ae0577[m Merge pull request #554 from dmihfc/pre-prod
+[33me73d6ee8[m FCU Team Report - API integration and label change
+[33m9e4b478b[m FCU Team Report - API integration and label change
+[33m28482427[m Merge pull request #553 from dmihfc/pre-prod
+[33m62b3b473[m Income Screen : Salaried case changes - Additional and variable
+[33me0dadaf2[m Merge pull request #552 from dmihfc/pre-prod
+[33m901a0d20[m Reports : General MIS and FCU Team Report
+[33md74f1dab[m Reports : General MIS and FCU Team Report
+[33made29255[m Income Screen : Salaried case changes - Additional and variable
+[33m0a03cb35[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m14481841[m form reset work for cam status buttons
+[33m2ddc075f[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into dev
+[33m3a18e05f[m Merge branch 'raviIdb' of https://github.com/dmihfc/angularrepo into dev
+[33m9c024358[m CAM Screen production related bugs has solved
+[33mf135048e[m CAM Screen production related bugs has solved
+[33m989e11b0[m Merge branch 'dev' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m71a0ba7a[m CAM screen production related bugs has solved
+[33m6e119c82[m Merge pull request #551 from dmihfc/pre-prod
+[33m9bc605d3[m Prod Bug : ROI - Waiver Request Code Commented
+[33mbcfe6edb[m Prod Bug : ROI - Waiver Request Code Commented
+[33meaa45c39[m Merge pull request #550 from dmihfc/pre-prod
+[33m2768ad94[m Login Fee : New Deposit  Bank Added
+[33mee61970d[m Login Fee : New Deposit  Bank Added
+[33m6c80139c[m cherry pick
+[33m24fa2e62[m cherry pick
+[33mdbcdf128[m Merge pull request #548 from dmihfc/abhishek-new
+[33m66c04e1c[m[33m ([m[1;31morigin/abhishek-new[m[33m)[m CAM Approve button permission bug
+[33m6e2e5ba1[m Merge pull request #547 from dmihfc/abhishek-new
+[33me136264f[m .
+[33m6f90eb43[m Merge pull request #546 from dmihfc/raviIdb
+[33mefe961c8[m underwritting validation
+[33m6729b5b0[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m70743407[m bug solving work for build
+[33mb6dc52ea[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33mc790e4e2[m Merge pull request #545 from dmihfc/raviIdb
+[33m9325dd80[m login acceptance validation condition changes
+[33m3bd76ae0[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m9d76904f[m login acceptance validation work
+[33m07bbea60[m Merge pull request #544 from dmihfc/raviIdb
+[33mda00e9b3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m23771c4b[m roi waiver, devation and deviation for cam, deviation bug fixing for dev and prod, selected module name binding on the header fo mobile
+[33m647e1e83[m Login Fee : Bugs - Deposit Account Number, Reference Date and Deposit Bank and account no. condition change
+[33md30564bf[m Revert "dynamice selected module binding on header for mobile view"
+[33mcfe0f282[m dynamice selected module binding on header for mobile view
+[33m3ee4b6c1[m Merge pull request #543 from dmihfc/abhishek-new
+[33mf27f6da4[m Merge pull request #542 from dmihfc/raviIdb
+[33m96b5170f[m Number of digits allowed from 7 to 10
+[33mb19639bf[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mf8e3f6f8[m empoloyee and personal screen changes
+[33me61de18b[m Merge pull request #541 from dmihfc/raviIdb
+[33me592df23[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m947ed2c5[m employee, manage role & manage user screen changes
+[33mcbdab422[m Merge pull request #540 from dmihfc/abhishek-new
+[33m00f800ce[m Guarantor Screen :  New form and fields permissions
+[33mb41355fa[m Merge pull request #539 from dmihfc/raviIdb
+[33mefccbed8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m493d9037[m cibil or experian changes of guarantor module and search record for user
+[33mce254c6d[m Merge pull request #538 from dmihfc/raviIdb
+[33mb3b34d9f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mab62544d[m Assessed income changes
+[33m1ee8aae8[m Merge pull request #537 from dmihfc/raviIdb
+[33m0cba3a9d[m regular itr changes
+[33m0adc875c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m5276395e[m financial year dropdown validation work done
+[33m646d1311[m Merge pull request #536 from dmihfc/raviIdb
+[33m3dee6071[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m1932c3e6[m Income screen changes
+[33m29fb027a[m Merge pull request #535 from dmihfc/raviIdb
+[33m86de31bc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m24a484d6[m income screen work
+[33mebe51191[m Merge pull request #534 from dmihfc/raviIdb
+[33m3705e80b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m6aa8114e[m ui correction for prod specific and technical report page
+[33m809fc917[m Merge pull request #533 from dmihfc/abhishek-new
+[33m58a57b74[m Merge pull request #532 from dmihfc/raviIdb
+[33ma7f47768[m v1/changePassword/submit
+[33mf25b033a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md961f7c7[m Guarantor final changes
+[33mf5c2e977[m Merge pull request #531 from dmihfc/abhishek-new
+[33mb1ee0513[m Forgot Password Screen Changes - Security purpose
+[33m6b145111[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33me654384b[m Forgot Password Screen Changes - Security purpose
+[33m1905e79f[m Merge pull request #530 from dmihfc/raviIdb
+[33m95a2380d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m84ece335[m guarantor module changes and ui work
+[33m978b58b9[m Merge pull request #529 from dmihfc/abhishek-new
+[33mda733fd4[m Sanction TAT Report Label Change
+[33mdf0769ef[m Merge pull request #528 from dmihfc/raviIdb
+[33m51e13795[m Merge pull request #527 from dmihfc/abhishek-new
+[33m9f1fd4af[m resolved conflict
+[33m8612667f[m responsive work and guarantor changes
+[33m26b6051b[m New
+[33m311a571f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33mc5607a70[m Income : new field - Form 16 Provided
+[33mff69e52f[m Merge pull request #526 from dmihfc/abhishek-new
+[33mebfb2404[m ROI multple post API call bug
+[33mf7e8f8f5[m Bank - DMI Repayment bank field bugs and validations
+[33m637e49d0[m Merge pull request #525 from dmihfc/abhishek-new
+[33mf79f3c8b[m Commit
+[33m146b8fcf[m New Screen - Report : Sanction TAT and Bank new field: DMI Repayment Bank
+[33m41a399f0[m Merge pull request #524 from dmihfc/raviIdb
+[33m2230fcab[m responsive work, cpv/rcu internal user api correction and guarantor changes
+[33mba35fde9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc3ad6e5c[m cpv interuser api work, guarantor changes and responsive work
+[33m060c9010[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m40049f6c[m Employment Bugs
+[33m9d70c5b4[m Merge pull request #523 from dmihfc/abhishek-new
+[33m03033bbf[m Employment and De-Dupe Bugs
+[33m67d04e1d[m Merge pull request #522 from dmihfc/abhishek-new
+[33m8b8838b4[m Dedupe Verification(internal) - Rejection Reason
+[33m75e97270[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m1e592e4f[m Priority 2 : Personal - Negative/Caution Profile
+[33m63e0b1ba[m Merge pull request #521 from dmihfc/abhishek-new
+[33m85ecbf9e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m3010e4a0[m Priority Tasks
+[33mfe15d120[m Merge pull request #520 from dmihfc/gautam-incomenew
+[33m7daf5a94[m[33m ([m[1;31morigin/gautam-incomenew[m[33m)[m filter and additional spread change
+[33m776fcec9[m[33m ([m[1;31morigin/gautam-new[m[33m)[m Merge pull request #519 from dmihfc/raviIdb
+[33macb168fc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m1b22c13e[m responsive work for lead-info-bar
+[33m69f2836f[m Merge pull request #518 from dmihfc/raviIdb
+[33m84fc48bf[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me8017b2b[m manage component permission error resolved
+[33m64690bf8[m Merge pull request #517 from dmihfc/abhishek-new
+[33m989df74c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m4b0a2073[m Merge pull request #515 from dmihfc/gautam
+[33mc9c2eb69[m Merge pull request #516 from dmihfc/gautam-incomenew
+[33mfb04f124[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m09ed2c26[m Searchable Dropdown(Api Response): Login fee transfer from, Recommend Align to, CAM review  Align To, Loan Scheme
+[33mebf0e7ab[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33mc8a32391[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m3b47b2b7[m filter work
+[33m13496b40[m Merge pull request #514 from dmihfc/raviIdb
+[33mf6d701dc[m Merge pull request #513 from dmihfc/abhishek-new
+[33m7cd1a2af[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mba517ad8[m responsive work
+[33m97475f84[m Login Fee Status Field and Searchable Dropdown : Loan Scheme, Qualification, Detail Qualification, Present Address Proof and Permanent Address Proof
+[33m8afb843e[m Merge branch 'responsive' into raviIdb
+[33m5c1aa4fd[m responsive layout work
+[33m859ba537[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m4c07e3a2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m45874739[m Merge pull request #512 from dmihfc/raviIdb
+[33mddf72fa6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7b71d0aa[m guarantor changes done
+[33m1c3a4b5e[m header responsive work
+[33md0cfde4c[m Merge pull request #511 from dmihfc/abhishek-new
+[33md7188103[m Login Fee status Bug
+[33mb512f1ff[m reporting level update
+[33me9df06b7[m guarantor filter
+[33mf5745069[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mbe2a1e65[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33me29c4b56[m Merge pull request #510 from dmihfc/abhishek-new
+[33m127cf75c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33mad1a6faa[m Login Fees : Clear Status , Searchable Dropdown : DOB Proof and Styling of Searchable dropdown
+[33m1fce6dd4[m Merge pull request #509 from dmihfc/raviIdb
+[33md6b74320[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m558bfb42[m remove all console logs
+[33ma1e153ea[m technical report option name
+[33m14408dd3[m technical firing filter
+[33m1581f1f9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mb21887e2[m technical report permission update
+[33m3df71757[m work mapping all get api work
+[33m0fe091b2[m work mapping changes
+[33m4e6c6723[m Merge pull request #508 from dmihfc/abhishek-new
+[33mf8b119a1[m Merge pull request #507 from dmihfc/gautam
+[33mef11f369[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m74bb53f6[m Searchable Dropdown :
+[33m8d9433c3[m search in emp and max date in releaving
+[33m42accd9f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33mefd592b3[m filter technical reprot
+[33m6c7777e8[m Merge pull request #506 from dmihfc/abhishek-new
+[33m7c4981c2[m Searchable Dropdown( Drawn On- Login Fee)
+[33m03fafb52[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m7a17eee8[m Merge pull request #505 from dmihfc/raviIdb
+[33mdadea428[m work mapping and face matching isAuthorize condition changes
+[33mfa12f5df[m delete refresh err in employee master
+[33mbd451f05[m Merge pull request #504 from dmihfc/gautam
+[33m511dfa13[m property visit design and refresh error fix
+[33m4ef3e61f[m Merge pull request #503 from dmihfc/raviIdb
+[33m6d0e6c78[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m26251440[m face matching request page changes
+[33m684174d6[m Merge pull request #502 from dmihfc/raviIdb
+[33m3735cb29[m face matching request page final changes
+[33m1ed2c575[m face matching changes
+[33mcee84c8f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m0a56bf63[m work mapping page work
+[33m93971d3a[m Merge pull request #501 from dmihfc/gautam
+[33m565a74ef[m design fixs
+[33mdb8c924a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m69299e7c[m bugs fix
+[33mb7b04f99[m Merge pull request #500 from dmihfc/abhishek-new
+[33m1a3aba8a[m Master - Manage Dropdown
+[33m7972fa7e[m Merge pull request #499 from dmihfc/gautam
+[33m8ffafc2d[m unique emp code validation
+[33mb74e8f90[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m9d22be96[m manage filter condition add
+[33m163deb7b[m manager nad branch filter
+[33m55b8e636[m Merge pull request #498 from dmihfc/raviIdb
+[33m5efafdea[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m802dc491[m guarantor, face matching request, and insurance page work
+[33m5b4be006[m filter add
+[33me2f6c481[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m82b53a79[m Merge pull request #497 from dmihfc/raviIdb
+[33mf204a311[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m4ea70eb2[m added date field in face matching request page
+[33mb34165b3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m52ed2cf8[m Merge pull request #496 from dmihfc/abhishek-new
+[33m1e19e453[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33m7cb9fe71[m Employment: border change, Lead creation - header, Bug fix
+[33m8c1f373e[m Merge pull request #495 from dmihfc/gautam-new
+[33me08bc00b[m refresh url
+[33mc2c6cc9a[m hunter status override error resolve
+[33mc43e2728[m employee table data update
+[33m33e3e28d[m Merge pull request #493 from dmihfc/gautam
+[33m299108e8[m Merge pull request #494 from dmihfc/raviIdb
+[33mc52d3366[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7da90efa[m face matching request page radio btn work and work mapping api integration
+[33m63c1b5cb[m filter option in designation
+[33ma98a9e29[m employee data mapping
+[33m7766946d[m employee design fix
+[33mdeda4b60[m Merge pull request #492 from dmihfc/raviIdb
+[33mee63d406[m Merge pull request #491 from dmihfc/abhishek-new
+[33m72e606cc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc957ff5a[m face matching request changes
+[33m347824a4[m CAM- Upload Documents Layout
+[33m91045e41[m Merge pull request #490 from dmihfc/gautam
+[33ma5c073da[m remove err
+[33mb81dd876[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m7f7ed879[m textbox restore
+[33m630bd4fc[m download format update
+[33m6f026575[m emp download excel
+[33m2f4274a4[m Merge pull request #489 from dmihfc/abhishek-new
+[33m6b5af790[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhishek-new
+[33mcb9ec4d7[m All Document : Material Angular Look
+[33m2a5c2408[m employ manage
+[33m778efb35[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m3f3890be[m Merge pull request #488 from dmihfc/raviIdb
+[33mc3aee717[m face matching request page specific work
+[33m6b209890[m emp form
+[33m98b7c856[m Merge pull request #487 from dmihfc/abhishek-new
+[33m905fe6a6[m Cards - Bottom border
+[33m1db05974[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m12e9d7e7[m Income not considerd new tab - Income, Bank and Employment, Tab Screens change - CPV/RCU Screen and  Liability & asset, Header Fix : Addtional Activity, Lead Creation and Liability & Asset
+[33m3f9af41c[m Merge pull request #486 from dmihfc/raviIdb
+[33m909c7f29[m lead creation changes and face matching status work
+[33mb0e8f074[m Merge pull request #485 from dmihfc/gautam-incomenew
+[33m96514da3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33mf4149bcb[m Merge pull request #484 from dmihfc/gautam-new
+[33m660fad01[m technical firing bug fix
+[33m3f4774b8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33ma315c0cf[m header design
+[33mb8e612cc[m emp manag
+[33m14e841a4[m Merge pull request #483 from dmihfc/raviIdb
+[33m25f5f7ae[m Merge pull request #482 from dmihfc/gautam-new
+[33mc060cc84[m Merge pull request #481 from dmihfc/abhi
+[33mc5b4eefb[m lead creation and face matching request module final work
+[33mac52b1a6[m updated code of lead creation, guarantor and face matching request module
+[33m0af5376f[m permission fixes
+[33m0d13d4a2[m console remove
+[33m8e694407[m alert error show
+[33m59d09fa3[m header design fix
+[33m0174451f[m technical firing bugs
+[33m73d87e2d[m[33m ([m[1;31morigin/abhi[m[33m)[m CAM Letter API call
+[33m079025a7[m face matching request page work and guarantor ui changes
+[33ma8723a89[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m8d7d9c93[m guarantor page ui work
+[33m0a65927c[m Merge pull request #465 from dmihfc/gautam-new
+[33mb048d9d1[m Merge pull request #478 from dmihfc/gautam
+[33mc6fe1685[m Merge pull request #479 from dmihfc/gautam-incomenew
+[33mc672b993[m Merge pull request #480 from dmihfc/abhi
+[33m54ccf9cd[m Employment - no income section, Personal - remarks , additional-bureau gurantor and employment header allignment
+[33m4e60c090[m conflict resolve
+[33m95cae445[m error bank name show
+[33m37828066[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mba1d22f2[m property visit work
+[33md5c72cd9[m Merge pull request #477 from dmihfc/raviIdb
+[33m38346e9b[m employement page isPensioner work, property bug solve and manage permission modal page work
+[33m5be9043b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mf31494a7[m additional act wrok 15  july
+[33m313cce81[m Merge pull request #476 from dmihfc/abhi
+[33m73809809[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33mfe94e0c5[m Property Idetified Condition
+[33m68ae8451[m Merge pull request #475 from dmihfc/raviIdb
+[33m59f302cc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m3a74896b[m obligatin section repayment bank field searchable work
+[33m774194e6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m318c4bff[m My Task - Assigned Date
+[33m645391fb[m Merge pull request #474 from dmihfc/abhi
+[33m51b37bf9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33md435fec9[m Assests - KCC, Gold Loan on GET condition and StageReversed color change
+[33ma905b076[m Merge pull request #473 from dmihfc/abhi
+[33m8875a1f7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33me79ac51e[m Employment: Sector(Government)
+[33m44ee3a98[m Merge pull request #472 from dmihfc/raviIdb
+[33m1366c556[m obligation work
+[33medaf4357[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m1f26d007[m Merge pull request #471 from dmihfc/raviIdb
+[33mb591f22d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m4807b9e1[m additional bureau error validation work
+[33m8c8af132[m Merge pull request #470 from dmihfc/gautam
+[33m5e7372e6[m bug fix
+[33mdb57434d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m61e1ced5[m guarantor page generate cibil or experian report work and cpv/rcu internal/external work
+[33m69ce12cc[m Merge pull request #469 from dmihfc/abhi
+[33m40b86abb[m Bug
+[33m1b93830d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33me2c85a8f[m Login Fee Payment mode and Validations
+[33ma4670efa[m Merge pull request #468 from dmihfc/gautam
+[33mf1d56fcc[m remove console
+[33me7982740[m console remove
+[33m1d7b065c[m bank transection negative value allow
+[33m58050160[m additional act work
+[33ma7ca96e7[m removal of old confirm box
+[33m93ddba83[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mb6f264da[m Merge pull request #467 from dmihfc/abhi
+[33m9f3d22da[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33maeb0a1b5[m Login Fee - Payment Details, Total Due and Waiver, Gold Loan" & "KCC Loan" in Existing obligation and Rename in Income detail
+[33m8eb02910[m Merge pull request #466 from dmihfc/abhi
+[33m60c1fc68[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m41eacc2a[m Login fee- Amount condition and Lead- bar status colors
+[33mc6e5955f[m additional activity work
+[33mdc88531c[m Merge pull request #464 from dmihfc/gautam-incomenew
+[33m89a0d5a0[m Merge pull request #463 from dmihfc/raviIdb
+[33mc491a354[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mbec5f4b3[m manage permission module work
+[33m54903855[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33m3cb7c63f[m permission ID update
+[33mec9c84cf[m bank doc perm
+[33m796a5771[m Merge pull request #462 from dmihfc/abhi
+[33m7a37222a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m1180e9b4[m Lead bar status differentiate, Insurance Delete button, De-dupe and Login acceptance Remarks
+[33m41870f46[m Merge pull request #461 from dmihfc/raviIdb
+[33mcd2f06aa[m manage user individually select all work and guarantor table work
+[33m383ef8ca[m guranter conflict resolve
+[33m6637cc7d[m resend acpt work
+[33m1fe41355[m hunter changes
+[33m42a9ac5c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m85b0d4a6[m Guarantor type data added in guarantor table
+[33m309fff48[m hunter changes
+[33m3690ae46[m Merge pull request #460 from dmihfc/abhi
+[33me73d1030[m Kyc Card, Gurantor PAN and Removed console logs
+[33mb64bfd4a[m Merge pull request #459 from dmihfc/raviIdb
+[33m99b3a0fd[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33med60d05b[m guarantor page ui changes and api integration
+[33maa81341f[m Merge pull request #458 from dmihfc/raviIdb
+[33m6eea0032[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m99f7d8df[m guarantor page work and error handling
+[33ma9198f90[m Merge pull request #457 from dmihfc/abhi
+[33m59778cc3[m Login Fee - Amount max. value condition removed Personal - PAN KYC card DOB removed
+[33md775236f[m Merge pull request #456 from dmihfc/gautam-incomenew
+[33md601dc60[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m0bd4375f[m additional bureau error handling
+[33m153eb2e4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33md92083bd[m personal,insr, loan elegibilty bug by abhishek
+[33m2cfa7337[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m358921b5[m Merge pull request #455 from dmihfc/abhi
+[33m7d44cf31[m Login Fee: Total Charges,Surplus Amount and Total Due
+[33m3c423204[m Merge pull request #454 from dmihfc/raviIdb
+[33m8b1ef5ba[m code change update
+[33m13274e9a[m liablity assest doc perms
+[33m8e5a8593[m cpv changes revert
+[33ma1011e96[m special character regex work and cpv changes
+[33mc9f4dede[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33m36e0e170[m loader hidee in error
+[33m7ef27b8a[m Merge pull request #453 from dmihfc/raviIdb
+[33m373a8f0f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m8260cd26[m work mapping and copy&paste special character control work
+[33meb97cd6b[m Merge pull request #452 from dmihfc/gautam-incomenew
+[33m7bf00e55[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m9fd66e85[m login page error handling
+[33m014a4c9b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33mfcb66a11[m datepicker local date use
+[33mdde736b0[m Merge pull request #451 from dmihfc/abhi
+[33m8b92b359[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m1d110900[m Custom Validator : NameLastNameRequired
+[33m1961010e[m Merge pull request #450 from dmihfc/raviIdb
+[33ma3d9803b[m Merge pull request #449 from dmihfc/gautam-incomenew
+[33m4c283d2c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mde6dec89[m work mapping page work, add user or update user error handling with api resMsg
+[33m206fa47c[m bank acnt number maxlength update
+[33m46cf5281[m console remove
+[33m214b8e19[m conflict resolved
+[33m83839e62[m doc permission
+[33mb59786e1[m Merge pull request #448 from dmihfc/abhi
+[33mc2c63584[m MIS Report Bug, My Task branch Change, Personal and gurantor Last name, Property End Rule
+[33md9ab6052[m Merge pull request #447 from dmihfc/raviIdb
+[33m9dbef67e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33m1ba33bd7[m doc view perms
+[33mc9ee86da[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m247d6fb9[m ui optimization and error handling work
+[33m4fee1dd7[m personal doc
+[33m799b145e[m Merge pull request #446 from dmihfc/abhi
+[33m8343523f[m Dashboard Bug
+[33m42f39a9e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m8425cc80[m Merge pull request #445 from dmihfc/abhi
+[33mbe4c429e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m728f3ae2[m Push to LMS : Refresh
+[33mf567d759[m Merge pull request #444 from dmihfc/abhi
+[33mf27d6625[m Stage Reversed Condition
+[33m85e59b2d[m Merge pull request #443 from dmihfc/raviIdb
+[33m188edd7c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m03d1d818[m guarantor changes and manage role module work
+[33mbb07e8c5[m Merge pull request #442 from dmihfc/gautam-incomenew
+[33medb133b1[m insuracne bug
+[33mcb045ea4[m lms permission
+[33md3c56365[m kyc personal doc view perm
+[33m7c691e00[m personal doc uplaod view permis
+[33ma6c6b6df[m Merge pull request #441 from dmihfc/abhi
+[33mde9dd607[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m231b6055[m Disbursal: Push to LMS
+[33mb415f7b3[m Merge pull request #440 from dmihfc/raviIdb
+[33mb9dbcae4[m guarantor table value changes
+[33m3c3efadf[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m851fb970[m employement page work
+[33m91177cae[m login fee doc view permission
+[33m3e5fcd6e[m Merge pull request #439 from dmihfc/gautam-incomenew
+[33m2208945b[m hunter permission update
+[33m2e392278[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33mb8e6e4c7[m login fee doc uplaod perm
+[33m992e08ef[m Merge pull request #438 from dmihfc/raviIdb
+[33m0934e1c7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33maf24cb80[m removed form validation static errors
+[33m58f5b5e0[m Merge pull request #437 from dmihfc/abhi
+[33m0094e99a[m contant change
+[33m5f2d65f5[m Generate CAM and PD report officer name
+[33ma1a37214[m Merge pull request #436 from dmihfc/gautam-incomenew
+[33m78dd9849[m mobile verification bug
+[33m8401513e[m doc upload view logic
+[33md2d28368[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33m23c56b07[m Merge pull request #435 from dmihfc/abhi
+[33me0f5375c[m Merge pull request #434 from dmihfc/raviIdb
+[33m96e8d716[m Cache clear
+[33m58cdb81b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33ma24d75d2[m incresed asset value
+[33maef3a3c3[m Merge pull request #433 from dmihfc/raviIdb
+[33m609f0199[m Merge pull request #432 from dmihfc/gautam-incomenew
+[33m7e09625c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m95966d1e[m additional bureau work and guarantor ui work
+[33m8b6194d8[m resolve conflicts
+[33m4a71374f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33md32caa61[m insurance work
+[33m2a495c12[m insurance error show
+[33m7f0c93bf[m Merge pull request #431 from dmihfc/abhi
+[33m7766327e[m CAM Button disabled and Spinner
+[33m201989cb[m Merge pull request #430 from dmihfc/gautam-incomenew
+[33m55fcb5f3[m Merge pull request #429 from dmihfc/abhi
+[33m7a66beb9[m hunter permission update
+[33m40576b02[m Post API integration : Push to LMS
+[33med1631f3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m688039af[m Merge pull request #428 from dmihfc/raviIdb
+[33ma8cb0e7b[m Merge pull request #427 from dmihfc/gautam-incomenew
+[33mf81b40d7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m1ba857e2[m cpv/rcu changes
+[33m12f99fa6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mf68c26c1[m insurance delete functionality
+[33m1bc2e810[m Merge pull request #426 from dmihfc/raviIdb
+[33ma393e446[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mceb3fe22[m cpv/rcu changes
+[33mf7df8035[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m4bb6f93b[m documnt upload and permisson
+[33m0a265e07[m Merge pull request #425 from dmihfc/abhi
+[33me61605ec[m Secondary Income
+[33m7a111bed[m Merge pull request #424 from dmihfc/raviIdb
+[33me3ca4846[m  copy&paste special character error handling
+[33m8700cb2e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md2475272[m created special directive for sanction condition
+[33mdfd2c98e[m Merge pull request #423 from dmihfc/raviIdb
+[33m1ceb961e[m merged code after resolved conflict
+[33m539db1ab[m remvoed console.log file
+[33m2265b550[m Merge pull request #422 from dmihfc/abhi
+[33m71ef644b[m MIS Report, Push to LMS, My Task-null handler and removed console.logs
+[33m770b7ff8[m Merge pull request #421 from dmihfc/raviIdb
+[33me7d5401f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me22a1868[m enduse work of property module
+[33m67b8ccbc[m Merge pull request #420 from dmihfc/raviIdb
+[33m0d8302c2[m Merge pull request #419 from dmihfc/gautam
+[33m1c53495f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mae6fb904[m my task queue re-assign work
+[33m3e92a924[m hunter remove button in case of no match
+[33me02a4938[m doc upload view permission
+[33m50f44784[m Merge pull request #418 from dmihfc/raviIdb
+[33md0f81a74[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33ma59f2247[m isFirstProperty
+[33meaa86ef4[m Merge pull request #417 from dmihfc/abhi
+[33me19e9b93[m Merge pull request #416 from dmihfc/raviIdb
+[33m877ef7dc[m Personal Validation and Hunter Table Bugs
+[33ma27c533a[m login fee module work
+[33m0674fb3a[m Merge pull request #415 from dmihfc/abhi
+[33m0a3c65ed[m bank
+[33mc4cd404a[m Merge pull request #413 from dmihfc/raviIdb
+[33med93755a[m commented some code of cpv/rcu
+[33m2b84177c[m property input field conditon and update password model design and condition
+[33m2e793f16[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m4cd34e07[m Merge pull request #414 from dmihfc/abhi
+[33mc818932c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m0106e118[m Dashboard- Login Fix, Cam- Column Removed, Eligibilty- header changed, Kyc Card
+[33me0c30228[m git push Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me92e7f65[m user module or cpv/rcu page work
+[33mf97b3640[m Merge pull request #412 from dmihfc/gautam-new
+[33m2eabbf06[m all doc code short
+[33m8a44656b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m00135660[m insurance changes
+[33me4a0df8d[m Merge pull request #411 from dmihfc/raviIdb
+[33m13c77e08[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m20168607[m employment isPensioner work
+[33m734325f4[m Merge pull request #410 from dmihfc/abhi
+[33ma6510273[m Dashboard, Generate CAM, KYC Card, Loan Eligibilty and Removed Console logs
+[33m4f959df7[m Merge pull request #409 from dmihfc/gautam-new
+[33me71e82ea[m bug fix hunter
+[33m0acbce5f[m Merge pull request #408 from dmihfc/gautam-new
+[33me6d07098[m hunter bug fix
+[33m1603d3e0[m Merge pull request #407 from dmihfc/raviIdb
+[33md0ff9029[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7db5ce02[m build performance
+[33m052bc94f[m Merge pull request #406 from dmihfc/gautam-new
+[33mf0fecb2d[m Merge pull request #405 from dmihfc/raviIdb
+[33m8479802c[m just update document code
+[33m08e542a7[m loan elegibility bug fix
+[33m5e3a7967[m all doc console errro fix
+[33m4235dce0[m just update code
+[33me2cd5ecd[m all document upload issue resolved
+[33mff108fe3[m Merge pull request #404 from dmihfc/gautam-new
+[33m915e463c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33mc71bd38f[m personal KYC doc fix
+[33m15961788[m Merge pull request #403 from dmihfc/raviIdb
+[33m5c053b49[m Merge pull request #402 from dmihfc/gautam-new
+[33m8a62016b[m Merge pull request #401 from dmihfc/abhi
+[33m90769bb1[m status code 440 work
+[33m975f25d9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-new
+[33mc571cc0b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md33bd3ef[m document list refresh
+[33ma137cfff[m login fee key chnage, personal no doc msg
+[33m6d6b17fe[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m861b5118[m KYC changes
+[33m860a92c6[m Merge pull request #400 from dmihfc/raviIdb
+[33m9db1b2bc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m06ff5876[m all document or property end user work
+[33maaa396b4[m Merge pull request #399 from dmihfc/gautam-new
+[33m20d0c434[m hunter fix error
+[33md9309d9b[m resolve conflicts
+[33ma889e74f[m Merge pull request #398 from dmihfc/gautam
+[33meb9b849f[m document fix
+[33m8083df6a[m Merge pull request #397 from dmihfc/abhi
+[33m916ab33f[m Merge pull request #396 from dmihfc/raviIdb
+[33mf112a5b2[m resolved conflicts
+[33m40abef97[m hunter fix
+[33m5b86535b[m property issue fixed
+[33mcbc7fce6[m library, logout, personal kyc document or okyc work
+[33m063212d6[m decument upload bug and hunter form fields add
+[33m6fa6b63f[m Dashboard Scroller
+[33m8686f030[m Merge pull request #394 from dmihfc/abhi
+[33maef099e3[m TOP Up Sceanrio removed
+[33mf4a0f917[m Merge pull request #393 from dmihfc/raviIdb
+[33m1ec6f590[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m8e9c3bec[m logout api integration work
+[33mb166b67b[m Merge pull request #392 from dmihfc/raviIdb
+[33m5058f907[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m6a8a79d8[m refrence status or property changes work
+[33mc8530e60[m Merge pull request #391 from dmihfc/gautam-new
+[33m14a94c41[m Merge pull request #390 from dmihfc/abhi
+[33mde529e1f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33maa4b3cd7[m Dashboard API Integration
+[33m4f905e71[m loan elegibility fields add
+[33md05f01ae[m Merge pull request #389 from dmihfc/abhi
+[33me2630da9[m Login MIS Report, Sub NAV-tab, Push to LMS
+[33m4dca21d9[m Merge pull request #388 from dmihfc/abhi
+[33m339e22a6[m Company API
+[33mada87452[m Merge pull request #387 from dmihfc/gautam-new
+[33mf7decae4[m login fee and insurance document count show, remove name shown in doc uplaod after submit
+[33mc1149752[m Merge pull request #386 from dmihfc/abhi
+[33m24fab9b2[m PUSH to LMS and Dropdown size
+[33m73b8e039[m Merge pull request #385 from dmihfc/raviIdb
+[33m70952313[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md8cfe2b9[m reset password work
+[33m5ef2bfab[m Merge pull request #384 from dmihfc/raviIdb
+[33m2c46f5b9[m Merge pull request #383 from dmihfc/gautam-incomenew
+[33mb2dce4c6[m sales and credit officer list option update
+[33ma9da0a66[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc4a657d3[m verify otp work
+[33m49c25a33[m income validation & loan acceptance name update
+[33m4d67aec3[m Merge pull request #382 from dmihfc/abhi
+[33me873fdba[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33mc62b1a85[m All documents sub-tab and Scrooling throughtout application
+[33m2506d1cb[m Merge pull request #381 from dmihfc/raviIdb
+[33m10bec80f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mfff72425[m reset password work
+[33mb64e402f[m Merge pull request #380 from dmihfc/raviIdb
+[33m9d3ff484[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md6c34b61[m just update
+[33ma058d630[m Merge pull request #379 from dmihfc/gautam-incomenew
+[33mf8fdbdea[m insurance form doc uplaod
+[33m09a0b194[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m4d7c943d[m credit card obligate or cpv table data work
+[33mde475578[m deposite slip upload
+[33m8f38a5a9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33md317dd43[m Merge pull request #378 from dmihfc/abhi
+[33m131bfaaf[m CAM : Date and Time
+[33mef50f353[m Merge pull request #377 from dmihfc/abhi
+[33m34734b68[m Bugs
+[33mceaefc49[m cash flow button design fix
+[33mb7c5e310[m Merge pull request #376 from dmihfc/abhi
+[33m04b04b15[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m8e1bac0e[m CAM button bug
+[33me2738af7[m Merge pull request #375 from dmihfc/abhi
+[33m801b447c[m Cam bug
+[33maf20be6c[m Cam Bug
+[33m1356c652[m Merge pull request #374 from dmihfc/raviIdb
+[33m67575408[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m1950dfaa[m perform kyc work
+[33m298c9186[m Merge pull request #373 from dmihfc/abhi
+[33me1b895ca[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33me057eedc[m Merge pull request #372 from dmihfc/raviIdb
+[33m8f2cace0[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mfdf8343f[m common document work
+[33mb923974d[m SUB industry, De-dupe, Spell checks
+[33m5f1bf45c[m Merge pull request #371 from dmihfc/raviIdb
+[33mb89b1c84[m Merge pull request #370 from dmihfc/abhi
+[33m5646dc1e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m2179bcde[m loan info and isAuthorized for cpv
+[33mdf738cae[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m7d3506c1[m Login Fee, CAM and KYC
+[33mf881bf40[m Merge pull request #369 from dmihfc/raviIdb
+[33me9b9829f[m loan information page tentative value bug fixed
+[33m172e174e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m223a3217[m cpv edit status or industry search
+[33m3a91c6fa[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33ma6b536c8[m Merge pull request #367 from dmihfc/raviIdb
+[33m53ac6953[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m29bd1643[m work mapping bug fixing
+[33mba7bdf7b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33ma41b1ba1[m DASHBOARD , Fetch KYC toggle and personal
+[33m27e7db86[m Merge pull request #366 from dmihfc/raviIdb
+[33m7e2ef01e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mcff242b7[m work mapping ui
+[33m002a3779[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33m2213fcf5[m Personal changes
+[33m87a438fc[m Merge pull request #365 from dmihfc/gautam-incomenew
+[33m5505d6ce[m personal design fix
+[33mdce0683f[m Merge pull request #364 from dmihfc/gautam-incomenew
+[33m9500a2c0[m Merge pull request #363 from dmihfc/abhi
+[33mfe081dcd[m desgin change restore personal
+[33mdb91228d[m design fix personal
+[33m11d7c6e7[m personal same as applicant address
+[33m2578c4e0[m Lead Report and Login
+[33m79356300[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m23e0e932[m manage user work
+[33m8dbfc636[m Merge pull request #362 from dmihfc/gautam-incomenew
+[33m3f2025e5[m Merge pull request #361 from dmihfc/raviIdb
+[33m624688fe[m all document loader
+[33m8ef05ed3[m personal applicant delete
+[33me53234c2[m update code after resolved conflict
+[33mb8a4cdc7[m loan information changes work done
+[33m6fc35cf8[m Merge pull request #360 from dmihfc/abhi
+[33mf77decb4[m LEAD Report user ID
+[33m311fd6ae[m Lead Report changes
+[33m78943776[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi
+[33mdd036d4a[m Master first load manage role
+[33m0009a610[m Merge pull request #359 from dmihfc/gautam-incomenew
+[33m3e372526[m document name format and deviation permission for new element
+[33m195ea4ec[m Merge pull request #358 from dmihfc/gautam-incomenew
+[33mb3e18b49[m permission in document uplaod and all document
+[33m73c2a7f8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33ma11ff939[m loan information page work
+[33m2ce2407d[m Merge pull request #357 from dmihfc/abhi
+[33mb7c1ec73[m Reports module
+[33mf29e4dc4[m Merge pull request #356 from dmihfc/raviIdb
+[33m0f82a31b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m97d48477[m build error resolved
+[33m068bcde1[m Merge pull request #355 from dmihfc/raviIdb
+[33m58cf5226[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m0ca48777[m lead creation final work
+[33m66adb338[m env chnage
+[33md4d0a9c9[m Merge pull request #354 from dmihfc/raviIdb
+[33m62fc9f77[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m6ba04bf1[m multiple lead creation work
+[33mdda61490[m Merge pull request #353 from dmihfc/gautam-incomenew
+[33m8abd13fd[m new permission in technical report
+[33m516bda1e[m vettig new view design
+[33m72d1bcfc[m Merge pull request #352 from dmihfc/abhi
+[33me8b20e15[m Change password redirection
+[33ma04436f2[m Merge pull request #351 from dmihfc/gautam-incomenew
+[33m85918cc5[m technical reprot new architecture
+[33md10d0e2d[m Merge pull request #350 from dmihfc/abhi
+[33m891d0e2e[m DL QR code
+[33m2176f0f5[m DL QR Code
+[33mb43e8b67[m technical report new structure
+[33m922e1207[m Merge pull request #349 from dmihfc/abhi-user-manage
+[33m0492fe94[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m64e8c4a9[m lead creation work
+[33m825e2910[m[33m ([m[1;31morigin/abhi-user-manage[m[33m)[m Asterik mark in personal
+[33mbef8f40c[m Kyc verification( KYC fetch)
+[33m3d6da272[m Merge pull request #348 from dmihfc/abhi
+[33mb1e221fa[m Reference, CPV and PD Report
+[33m0ffe73cb[m Merge pull request #347 from dmihfc/gautam-incomenew
+[33m622d6857[m error fix nad technical report subsequent chnage
+[33mcc30142f[m Merge pull request #346 from dmihfc/abhi-user-manage
+[33me0a98c5e[m Modal Errors, Hunter API call, Perform KYC
+[33m86e60343[m Merge pull request #344 from dmihfc/raviIdb
+[33mdaf8a44c[m update code after resolved conflict
+[33mb4b8a645[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m0367ac25[m update code after resolved conflict
+[33mbfd7988e[m Merge pull request #345 from dmihfc/gautam-incomenew
+[33m0f9fc49a[m conflict resolve
+[33m6cc0d323[m Merge pull request #343 from dmihfc/abhi-user-manage
+[33m0575383c[m logic change technical reprot
+[33m5b42b7b5[m search and user module work
+[33m9993d2d6[m technical doc upload
+[33m1c37ca2b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mae1702dd[m just update code
+[33m5888f5ce[m Bugs, Console logs and environments
+[33m5d6f467b[m Merge pull request #342 from dmihfc/gautam-incomenew
+[33m3d359d27[m technical report new changes
+[33mf2b55a9b[m Merge pull request #341 from dmihfc/raviIdb
+[33m3b08185c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m921775de[m kyc url config work
+[33md3077d5d[m Merge pull request #340 from dmihfc/raviIdb
+[33mf289f296[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m8c4ba38a[m just update code
+[33mb2beb720[m Merge pull request #339 from dmihfc/raviIdb
+[33m6a7a8928[m kyc updated work
+[33ma8009b3a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m5479913f[m kyc work
+[33m17320df4[m Merge pull request #338 from dmihfc/raviIdb
+[33m07dc3cc7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m9b847985[m resolved deployment bugs
+[33m5ae6fa72[m Merge pull request #337 from dmihfc/abhi-user-manage
+[33mcbda8a50[m Rejection table and Loan Information changes
+[33m83c65ddf[m Merge pull request #336 from dmihfc/raviIdb
+[33m9ad584c1[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md056750f[m sanction conditions work
+[33mc855c76c[m Merge pull request #335 from dmihfc/gautam-incomenew
+[33mde3467a3[m technical report new changes
+[33m38364586[m Merge pull request #334 from dmihfc/raviIdb
+[33mb6c1b546[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me53d89f2[m document view and download of deviation
+[33meaf580de[m Merge pull request #333 from dmihfc/raviIdb
+[33m89a42385[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m3036d1bc[m sanction condition and insurance agency type work
+[33mc830ab62[m Merge pull request #332 from dmihfc/abhi-user-manage
+[33m8169fb04[m .tabl-boxing .nav-tabs li a:hover
+[33m1bda8d53[m Merge pull request #331 from dmihfc/gautam-incomenew
+[33m73e1887f[m build error fux
+[33macfd587b[m Merge pull request #330 from dmihfc/gautam-incomenew
+[33m2cfb1e8f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m891aac6f[m technical firng new ui element
+[33mbeb62c3e[m Merge pull request #329 from dmihfc/abhi-user-manage
+[33mbb0269fe[m Remaining Modal Changes
+[33mf8c29aa8[m Merge pull request #328 from dmihfc/abhi-user-manage
+[33mae835442[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mee1968c4[m just update code
+[33m951b59d3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mb60c3707[m Loan Apprisal
+[33m7987a82f[m Merge pull request #327 from dmihfc/abhi-user-manage
+[33m7663417d[m Remaining changes
+[33m2bc1e05a[m permission in technical report
+[33m1a024e64[m technical permission work
+[33mc4ee7f0a[m Merge pull request #326 from dmihfc/abhi-user-manage
+[33meb5dfc95[m Merge pull request #325 from dmihfc/raviIdb
+[33m06621c7e[m Gurantor and Sanction uploads
+[33mf4382c3d[m search type select work update code after rosolved conflict
+[33md7989802[m search type selecct
+[33m111fbabf[m Merge pull request #324 from dmihfc/gautam-incomenew
+[33m9ccd3d26[m Merge pull request #323 from dmihfc/abhi-user-manage
+[33m21c187c7[m cashflow bug fix
+[33m33556356[m Modals and Sanction Menu
+[33m6cd283e3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m8ebf622c[m .bureau-modal
+[33m2a391e01[m Merge pull request #322 from dmihfc/gautam-incomenew
+[33m6f005d97[m cashflow update data
+[33m34f7aea9[m cash flow changes
+[33m2b2592db[m Merge pull request #321 from dmihfc/abhi-user-manage
+[33md0abe58f[m Cam document download
+[33m3f19701e[m Merge pull request #320 from dmihfc/raviIdb
+[33me1660dc5[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me8c667dc[m all document work
+[33m5cdcb91a[m Merge pull request #319 from dmihfc/abhi-user-manage
+[33md83da7d8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m7a2ce5c4[m Lead Assignment Module and Bugs/Fixes
+[33m929b114c[m Merge pull request #318 from dmihfc/gautam-incomenew
+[33m2139cdcc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m53844949[m final monthly average
+[33m39a1bbae[m Merge pull request #317 from dmihfc/raviIdb
+[33m342db1b7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me1fc5244[m property module or otp work
+[33m2ea4e444[m Merge pull request #316 from dmihfc/gautam-incomenew
+[33mf51b5fda[m liquid multiplier validation
+[33md306c185[m income luquid multiplier changes
+[33m31c38448[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m52ebf063[m income changes
+[33m9d30b8cd[m Merge pull request #315 from dmihfc/abhi-user-manage
+[33mbf87e7fb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mbd77deca[m verify otp ui work
+[33m94b9bce9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33me3928663[m Login and Sanction Fixes
+[33mec1774ac[m Merge pull request #314 from dmihfc/abhi-user-manage
+[33m46113984[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m4192225b[m Upload Button Fix
+[33m03599bac[m Merge pull request #313 from dmihfc/abhi-user-manage
+[33ma939a102[m Cam And Insurance
+[33m2064f8ef[m Merge pull request #312 from dmihfc/abhi-user-manage
+[33mecc72aa4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m07950ccb[m Bureau and Additional Bureau Loader and Error handling
+[33maccd0776[m Merge pull request #311 from dmihfc/abhi-user-manage
+[33m8d67050e[m CAM Lead bar Refresh
+[33m16082f30[m Employement and Loan Info bug
+[33mc9334401[m Merge pull request #310 from dmihfc/raviIdb
+[33m1cbd5faf[m merge code after resolved conflict
+[33m3e00a8d9[m solved bugs
+[33me287fb88[m Merge pull request #309 from dmihfc/abhi-user-manage
+[33m3fe284ef[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m540fa828[m Remarks: Personal and Employment
+[33m08048d34[m Merge pull request #308 from dmihfc/raviIdb
+[33m4cfdfde5[m Merge pull request #307 from dmihfc/abhi-user-manage
+[33m9eb3df61[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m5a45552f[m Lead Assignment, Download Excel
+[33mbccaa339[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m9be38d67[m bank details and bureau work
+[33m208eb733[m Merge pull request #306 from dmihfc/gautam-incomenew
+[33mf094522b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mcd096124[m technocal rpt work
+[33m78ca302f[m Merge pull request #305 from dmihfc/gautam-incomenew
+[33m1d87cb4d[m dedupe error message remove and logic change
+[33me876ba3a[m Merge pull request #304 from dmihfc/abhi-user-manage
+[33m7c0e71ae[m Lead Assignment : new component
+[33m7b93607b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33me2a158fc[m Lead Assignment
+[33mc02f7fa2[m Merge pull request #303 from dmihfc/raviIdb
+[33m4ed11f8b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m80e38b4d[m Additional Bureau report generate condition
+[33m3ee9a7b4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m1303016e[m Merge pull request #302 from dmihfc/abhi-user-manage
+[33me29af7fb[m Button changes: Application level and CPV table allignment
+[33m9c678961[m technical report validations
+[33medd9d25e[m Merge pull request #301 from dmihfc/raviIdb
+[33m10a43502[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me521fea8[m addition bureau conditional work
+[33m695d78b0[m Merge pull request #300 from dmihfc/gautam-incomenew
+[33m4e1fc596[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mdf336c75[m technical report ui and functional
+[33maa1ce3da[m Merge pull request #299 from dmihfc/abhi-user-manage
+[33m35adee91[m Personal, Applicant Tab and CAM Screen
+[33m3532a7f6[m Merge pull request #298 from dmihfc/raviIdb
+[33md15f1f6b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m81e591df[m update experian code
+[33m20367133[m Merge pull request #297 from dmihfc/raviIdb
+[33m47446637[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mbeb558b0[m technical firing work or document upload code update
+[33m83956ad9[m Merge pull request #296 from dmihfc/abhi-user-manage
+[33mf9decb96[m Label changes in LOGIN
+[33m42b87d17[m Merge pull request #295 from dmihfc/raviIdb
+[33m7ee77e6e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m466785ba[m Additional Bureau work done
+[33m5f17d868[m Merge pull request #294 from dmihfc/abhi-user-manage
+[33m256730b1[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m7cf2908e[m UI Changes( throughout Application)
+[33m0034252b[m Merge pull request #293 from dmihfc/abhi-user-manage
+[33m5f2a0a02[m .underwri_table
+[33m3cca3e68[m resolve conflicts
+[33mfaccbadd[m technical desing changes
+[33m46dfadc5[m Merge pull request #292 from dmihfc/raviIdb
+[33mae9f0808[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33ma9cd518e[m Role name work
+[33m15824c33[m Merge pull request #291 from dmihfc/abhi-user-manage
+[33mf8dd70e7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m91fac5df[m Report Menu, Role Icon, Console logs
+[33m11ec2f7b[m Merge pull request #290 from dmihfc/raviIdb
+[33mc79311ee[m all document view and upload inside login screen
+[33m394a01ed[m Merge pull request #289 from dmihfc/abhi-user-manage
+[33m1e204f25[m Merge pull request #288 from dmihfc/raviIdb
+[33m070bc164[m Additional bureau page work
+[33m5fe91cfe[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m054dbe14[m Icon, Tab control, Default Company, Label, UI changes
+[33me2ba658b[m additional bureau page work
+[33m2d00c75b[m Merge pull request #287 from dmihfc/gautam-incomenew
+[33me2eab8f3[m conflict resolve
+[33meed8949f[m side bar, module and bug fix
+[33m2aadf870[m Merge pull request #286 from dmihfc/abhi-user-manage
+[33m4eb1a414[m ForwardLMS : Draft
+[33ma32a8760[m Save Button, Menu Icons, Property Screen, Personal and UI changes
+[33mbe4b445f[m Merge pull request #285 from dmihfc/abhi-user-manage
+[33m098a1efc[m Bug
+[33m38676f9d[m Disbursal module and Footer
+[33mab222ac5[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m8ee2f937[m Merge pull request #284 from dmihfc/raviIdb
+[33m10a543b5[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m0083b864[m Property Screen( hiding 5 fields)
+[33m0fa10b21[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7da575a0[m all page document upload outside screen
+[33mec41fa9f[m Merge pull request #283 from dmihfc/abhi-user-manage
+[33m712f07cc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m5912eb93[m Property Screen New fields
+[33me7d7e6a7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mff2e6627[m just update code
+[33m2e2d5530[m Merge pull request #282 from dmihfc/abhi-user-manage
+[33m90f7fe9b[m Waiver Screen
+[33mcdbf507f[m Merge pull request #281 from dmihfc/abhi-user-manage
+[33m50ec843b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mcf3951f7[m Insurance Module - Bugs
+[33mfce44855[m Merge pull request #280 from dmihfc/abhi-user-manage
+[33mcf0388e8[m Waiver Module
+[33mfecbf17e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mefac33e6[m Revert "Revert "Insurance Module""
+[33mbc4ddd0a[m Revert "Insurance Module"
+[33m42b4d3a5[m Insurance Module
+[33ma3ee8841[m Merge pull request #279 from dmihfc/gautam-incomenew
+[33m7996dfbb[m conflict resolve
+[33ma4b9fadf[m remove console msg
+[33m9aefd9e7[m button spinner on all pages
+[33md6d85e4d[m Merge pull request #278 from dmihfc/raviIdb
+[33m336b6150[m update code after resolved conflict
+[33me76b9b42[m roi waiver and guarantor document upload work
+[33ma8c353f5[m Merge pull request #276 from dmihfc/gautam-incomenew
+[33m5b4b85a5[m Merge pull request #277 from dmihfc/abhi-user-manage
+[33mab9e7e93[m Bugs- Exceljs
+[33mc581ca5e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m2520d4a3[m update code
+[33m2c18df4e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m7d25f95c[m Merge pull request #275 from dmihfc/raviIdb
+[33meae7dfeb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33ma63c25b9[m button spinner
+[33m26b3cea0[m just update
+[33macdef621[m just update excel title
+[33md5a5b9cf[m just update code of excel file
+[33mee878ed9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m53378486[m excel file download work
+[33me0b1c269[m Merge pull request #273 from dmihfc/abhi-user-manage
+[33mb3feed31[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33ma7ecfa1e[m Merge pull request #272 from dmihfc/gautam-incomenew
+[33ma16866a4[m income itr intial income design fix
+[33m824fe60e[m my task redirect corrction
+[33m61831f12[m Forgot Password
+[33m07b2bdd7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m47f34100[m button permission and search bar optimisatons
+[33m6bfc1845[m Merge pull request #271 from dmihfc/raviIdb
+[33m2888be1d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m4a14b7c8[m my task data search module work
+[33ma6e6a996[m Merge pull request #270 from dmihfc/raviIdb
+[33mcd2cd878[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc0d6f592[m download csv file work
+[33m02e64c79[m Merge pull request #269 from dmihfc/raviIdb
+[33m16c5b89e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc63a153a[m all pending task
+[33mfba71840[m Merge pull request #268 from dmihfc/gautam-incomenew
+[33m94ba8f33[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m045f931a[m disable permission and bugs fixes
+[33mdf8c604a[m Merge pull request #267 from dmihfc/abhi-user-manage
+[33m8d356da5[m Bug/Enhancement- Browser Back Button
+[33m4193cc3e[m Merge pull request #266 from dmihfc/raviIdb
+[33mbb0b07da[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me860ce33[m updated code
+[33m9560d3ab[m Merge pull request #265 from dmihfc/abhi-user-manage
+[33md0294e88[m Back Functionality and Insurance
+[33mcbbbc855[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m2908233a[m Back Functionality
+[33m405c16ed[m Revert "Back Functionality and Insurance"
+[33m9dd1011c[m Back Functionality and Insurance
+[33m2c799920[m Merge pull request #264 from dmihfc/gautam-incomenew
+[33m22caa3ca[m Merge pull request #263 from dmihfc/abhi-user-manage
+[33m3af9d7e9[m conflict resolve
+[33m9a89c56d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m57018252[m Change Password
+[33m1e9963ec[m menu change
+[33maec42149[m Merge pull request #262 from dmihfc/raviIdb
+[33m02cf871c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mfcb6a756[m all document list view work
+[33m4b0456ef[m intial income design
+[33m28a35639[m Merge pull request #261 from dmihfc/abhi-user-manage
+[33m63cdf824[m conflict resolved
+[33m25c6dd55[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33ma73be5d8[m Change password and Required bugs
+[33md9b04741[m Merge pull request #260 from dmihfc/raviIdb
+[33m59113179[m user permission array, menu
+[33mdd32ec05[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mba547aff[m bank details document upload work
+[33m619a06e8[m Merge pull request #259 from dmihfc/abhi-user-manage
+[33mc2d611ba[m Loan Eligibility
+[33md9edb7bd[m form array permission
+[33mc5a1bfe6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mbacdb679[m Merge pull request #258 from dmihfc/abhi-user-manage
+[33ma349bc0f[m Merge pull request #257 from dmihfc/raviIdb
+[33m554634fb[m application number input placeholder work
+[33m4ccb7a18[m menu as user privledge and data hide if no application
+[33m341ee1d6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m1da5d498[m CAM and Login UI
+[33m926e3276[m ui work
+[33mdfde19e7[m just update code
+[33m1c8ba218[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m807b5f47[m role permission work
+[33mef2ea41d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mda2c0772[m Merge pull request #256 from dmihfc/abhi-user-manage
+[33mb6966d7c[m CAM
+[33m6de4b36f[m income user permission
+[33m43a52698[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m847050cb[m loan sanction and document checklist user permission
+[33m28208609[m Merge pull request #255 from dmihfc/raviIdb
+[33mf8601ffb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m17708d20[m update code of role management
+[33md4ba70c4[m Merge pull request #254 from dmihfc/abhi-user-manage
+[33m9f65820d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m17ec2619[m Reference, CAM and Bank
+[33m92462157[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m5a352be8[m permissin sanction ltr, rejection ltr, waiver
+[33m832119cb[m Merge pull request #253 from dmihfc/raviIdb
+[33m159d9b5f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc140d4a4[m role management work
+[33m1949afc5[m conflict resolve
+[33ma550253f[m permission guranter,loan eleg
+[33me3920b45[m Merge pull request #252 from dmihfc/abhi-user-manage
+[33me812374d[m loan info bug fix and cpv permission
+[33mf293e6fd[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m96a5eba1[m Bank Bug
+[33m55b5dbb0[m Merge pull request #251 from dmihfc/abhi-user-manage
+[33m848af17f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m09c7700f[m Merge pull request #250 from dmihfc/raviIdb
+[33m7c46640c[m personal
+[33mf6ef3500[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m0a043fa4[m role permission work done
+[33mc59fff07[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m136304ad[m Personal Property CAM BANK Styles
+[33m37c21b1f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mebc61b15[m prevledge login fee, bank,loan acceptance, reference
+[33maacaf7be[m Merge pull request #249 from dmihfc/raviIdb
+[33mdf8a4291[m new changes
+[33m94971210[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md75c52d2[m role permission work
+[33m352c6508[m user permission property, buero, roi, liablity assests
+[33m4d695e61[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m263ade39[m permission on employment insurance and huter
+[33m6e22b309[m Merge pull request #248 from dmihfc/abhi-user-manage
+[33m53ba5085[m Remarks-Employment
+[33ma982b837[m Merge pull request #247 from dmihfc/raviIdb
+[33m97f06f06[m Merge pull request #246 from dmihfc/gautam-incomenew
+[33m41f77111[m income considered work
+[33m6b731ce6[m emp restore and dedupe fix
+[33m6dc98064[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mad58df7b[m bug fixing work and manage role work
+[33m2e82de29[m Merge pull request #245 from dmihfc/gautam-incomenew
+[33m81d6c9a9[m personal dedupe permission and format change
+[33m8c19a1b5[m Merge pull request #244 from dmihfc/raviIdb
+[33m5a71b602[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m640f06f3[m bug bixing works
+[33m8898b23e[m Merge pull request #243 from dmihfc/gautam-incomenew
+[33me845ddc7[m loan info permission
+[33m7493d1f8[m Merge pull request #242 from dmihfc/abhi-user-manage
+[33m86b76f28[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m493fbcc9[m Letters(Cam, Sanction and Rejection)
+[33mc96886b4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m302e34fa[m Merge pull request #241 from dmihfc/abhi-user-manage
+[33me6cc4a2c[m permission loan info
+[33macd7ab4e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mbd33ac0f[m Bugs
+[33m1ef98266[m Merge pull request #240 from dmihfc/abhi-user-manage
+[33mb6761460[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m593d2af7[m Merge pull request #239 from dmihfc/raviIdb
+[33mcbf9eaae[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md957ff06[m re-assignment work
+[33m484dd242[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33md31dc009[m Waiver and Hunter
+[33m9badb33f[m Merge pull request #238 from dmihfc/abhi-user-manage
+[33m0f33d795[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mc79db4f4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mc34a93e4[m hunter changes
+[33m6b9e2507[m Merge pull request #237 from dmihfc/gautam-incomenew
+[33m1edd42d9[m permission work
+[33m4b5b439d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33meacda114[m just update code
+[33m83d67122[m Merge pull request #236 from dmihfc/raviIdb
+[33m602964b9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mabe0d39e[m bureau work
+[33m93b91c07[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33ma7ec15d0[m CAM document
+[33mdb327083[m Merge pull request #235 from dmihfc/abhi-user-manage
+[33m3d6bfc20[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m6cc812d6[m UI Changes
+[33m1127c241[m Merge pull request #234 from dmihfc/raviIdb
+[33md8910ac6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33me8ece258[m bureau work
+[33md47a05ca[m Merge pull request #233 from dmihfc/raviIdb
+[33mce4388cd[m update code after resolved conflict
+[33m00dc517d[m document checklist api integration
+[33m3721429b[m Merge pull request #232 from dmihfc/abhi-user-manage
+[33mbe5fba59[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mb0d1c1d5[m issues
+[33m24c30a6e[m Merge pull request #231 from dmihfc/gautam-incomenew
+[33m60eb139f[m Cam, Sanction and PD Report
+[33m7c94aaf2[m personal conflict resolve
+[33m390b29fc[m loan info maxlength fixed
+[33mb4d05cc5[m Merge pull request #230 from dmihfc/abhi-user-manage
+[33mbb1ed1b3[m just update code form master
+[33mde167e40[m issues
+[33mdb488246[m dubbger removed
+[33m3b229838[m Console logs and Sanction and rejection letter
+[33m9fdcbbac[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33ma564a37a[m personal data email verfication disable correct
+[33madc0cf51[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mb8267837[m document checklist work
+[33md1f2b7aa[m Merge pull request #229 from dmihfc/ravinder/documentchecklist
+[33m8be17907[m fixed document checklist navigation issues
+[33m818c521b[m Merge pull request #228 from dmihfc/raviIdb
+[33m6be48cdd[m update new changes
+[33mb21e5ab3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mac090e78[m just update code
+[33m06441a46[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m25dae838[m Merge pull request #227 from dmihfc/abhi-user-manage
+[33m38ffc094[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m50ae6862[m Permissions and Sanction and Rejection Letter
+[33m327a32e0[m rupee maxlength increase
+[33m48872fdd[m Merge pull request #226 from dmihfc/raviIdb
+[33m360481ae[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mfecc70e2[m service file work
+[33m94f0a56c[m Merge pull request #225 from dmihfc/gautam-incomenew
+[33m2547b1af[m Merge pull request #224 from dmihfc/abhi-user-manage
+[33mebad040a[m Merge pull request #223 from dmihfc/raviIdb
+[33me5a5955a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mf547011b[m login fee validations
+[33m8c730445[m update code
+[33m0dad7b77[m just update code
+[33mbd62b3d8[m resolve bugs
+[33m388c8469[m document-checklist table work
+[33me2805ba3[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m994faddb[m css changes
+[33ma895928d[m Merge pull request #222 from dmihfc/ravinder/autocomplete
+[33m44dc3447[m fixed autocomplete & permission issues
+[33mc0aa18e4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m5d8d6988[m loan eligibility and autocomplete
+[33m838ca0d0[m Merge pull request #221 from dmihfc/abhi-user-manage
+[33m0a3ca75a[m Screen Name
+[33m4b34c9db[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m6c10573f[m Screen Name and CAM
+[33m420e2e11[m Merge pull request #220 from dmihfc/raviIdb
+[33m464cdc92[m responsive table work
+[33me91ccbc8[m Merge pull request #219 from dmihfc/gautam-incomenew
+[33m2a2c4b21[m rupee sign implementation
+[33m69366fdd[m Merge pull request #218 from dmihfc/abhi-user-manage
+[33m83123838[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m162d2236[m CAM
+[33ma0e93301[m Merge pull request #216 from dmihfc/gautam-incomenew
+[33m2aa98202[m Merge pull request #217 from dmihfc/ravinder/performance
+[33mbfd16f51[m Merge branch 'master' into ravinder/performance
+[33mb19dfb4b[m added loan info seach
+[33m21c112b6[m login screen employee error remove
+[33m38f003e6[m rupee sign changes
+[33m8cb76b0f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m2d6d6774[m Loader-Error
+[33mf01e7e2e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33md1c76f83[m rupee pipe wrok
+[33mc2b60ca9[m Merge pull request #215 from dmihfc/raviIdb
+[33m44af8d66[m Merge pull request #214 from dmihfc/abhi-user-manage
+[33m8f1acff1[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m2c9696e8[m update code of application queue data
+[33ma51525cc[m Merge pull request #213 from dmihfc/gautam-incomenew
+[33mffa097ec[m Loader and CAM changes
+[33m7152af02[m personal btn and alert dialogue
+[33mffe5d851[m global datepicker format
+[33m92011149[m login fee changes
+[33m85d575e8[m login fee new changes
+[33me3114aeb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m3d777e69[m cam-lead
+[33m031fb900[m Merge pull request #212 from dmihfc/raviIdb
+[33m76faf318[m reference work done
+[33m87d00cef[m Merge pull request #211 from dmihfc/ravinder/performance
+[33md9617b33[m fixed performance issues
+[33m20bc7636[m Merge pull request #210 from dmihfc/ravinder/performance
+[33mc126dc7e[m added performance changes to personal screen
+[33md7eb850a[m Merge pull request #209 from dmihfc/raviIdb
+[33m5ddb45e8[m resolved conflict and update ui work code
+[33m5e965f8c[m ui work
+[33m05c6bfd8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m2d335130[m cam and menuhelper
+[33m5a3aa406[m Merge pull request #208 from dmihfc/gautam-incomenew
+[33mb38520f4[m login fee changes
+[33m88489876[m Merge pull request #207 from dmihfc/raviIdb
+[33m51d35757[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m00645751[m header and document work
+[33m3734a3b4[m Merge pull request #205 from dmihfc/gautam-incomenew
+[33m87a36724[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33madcd588d[m Merge pull request #206 from dmihfc/raviIdb
+[33mf8b846f4[m income screen work
+[33m73e3953a[m date picker work done
+[33m22631027[m resolved bugs
+[33m8294aaf2[m error modal and confirm modal work
+[33m32388ffa[m login fee changes
+[33ma9bd2853[m Merge pull request #203 from dmihfc/abhi-user-manage
+[33mebc60749[m Merge pull request #202 from dmihfc/gautam-incomenew
+[33m582bb5e5[m menu changes
+[33mf8f8d755[m Submit Application
+[33m4f486b4a[m loan information bug fixes
+[33m4f94e1f5[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m997f4b09[m income chnages
+[33mdae733a0[m Merge pull request #201 from dmihfc/abhi-user-manage
+[33m34e192e7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mfd0eaf42[m submit application
+[33mc7938be2[m Merge pull request #200 from dmihfc/raviIdb
+[33m9ba8c5e8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m84861402[m update code
+[33mae3d3867[m Merge pull request #199 from dmihfc/raviIdb
+[33m10f2a89c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m6f15ef0d[m resolved bugs
+[33m54d7f88b[m Merge pull request #198 from dmihfc/gautam-incomenew
+[33ma82b8564[m income validation
+[33mfd9d3539[m income header data refresh
+[33m33c77417[m income reset data
+[33m315b7795[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33mfea96205[m Merge pull request #197 from dmihfc/raviIdb
+[33mfae929be[m resolved conflict login fee
+[33m871a5de6[m bureau details work
+[33mb849c303[m Merge pull request #196 from dmihfc/gautam-incomenew
+[33mafbacfdd[m income validation
+[33m2825a649[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m123a36ea[m document upload work
+[33m03eaa6a0[m conflict resolve login fee
+[33m4499eda9[m pull update
+[33m9ff9ee88[m login fee and income
+[33m801fb2a4[m Merge pull request #195 from dmihfc/abhi-user-manage
+[33m459de888[m Merge pull request #194 from dmihfc/himanshu/bankdetails-enhancements-fixes
+[33mb824fe23[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mc1429cd7[m KYC and PD Doc Changes
+[33mbfb321a7[m[33m ([m[1;31morigin/himanshu/bankdetails-enhancements-fixes[m[33m)[m Fixes & Adds enhancement - Fixes year issue - Fixes number of salary credit issue - Enhancement for update forms: Now, on click of cross, the data will revert back to old changes and only clicking on Edit button, the data will be updated. This is for both, transaction and bank form - Enhancement to fix UI/UX scroll issue - Sets applicantNumber & leadID in download document feature
+[33medf221c5[m[33m ([m[1;31morigin/aayushi-bugfix-enhancement[m[33m)[m Merge pull request #193 from dmihfc/raviIdb
+[33m5fa2d9ff[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33ma6310d77[m interceptor work
+[33mbf7f8b39[m upload documents work
+[33m06f72a90[m sec income cal
+[33md635a55a[m Merge pull request #192 from dmihfc/gautam-incomenew
+[33m645dc20a[m Merge pull request #191 from dmihfc/raviIdb
+[33m2461b73e[m income calculations
+[33m14082a14[m assessed income calculation
+[33mefa4fe08[m degin income
+[33m3ec057e0[m income design
+[33mae3ea615[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mba32b40e[m document upload work on bank details
+[33m5d2d220b[m Merge pull request #190 from dmihfc/abhi-user-manage
+[33m3702dc34[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33md46cb78b[m Icon Changes
+[33m7c4426ff[m Merge pull request #189 from dmihfc/raviIdb
+[33mec2fdbcd[m Merge pull request #188 from dmihfc/yo-bureau
+[33m555c3d74[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mef3bce0d[m kyc work
+[33m432a0537[m design changes
+[33m6470214f[m Merge pull request #187 from dmihfc/yo-task-list
+[33m5d015ce8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m22f618be[m Sanction and Rejection Letters
+[33me906f56a[m[33m ([m[1;31morigin/yo-bureau[m[33m)[m bind API
+[33m7d8f7755[m Merge pull request #186 from dmihfc/raviIdb
+[33m91435ad7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7df98d01[m updated code
+[33m205fc8ae[m[33m ([m[1;31morigin/yo-task-list[m[33m)[m move utility service in response block
+[33mb551c294[m set data type to fetch this.loanApplicationAssignmentID
+[33ma66e6005[m income design fix
+[33mad617b75[m Merge pull request #185 from dmihfc/raviIdb
+[33md4985924[m Merge pull request #184 from dmihfc/abhi-user-manage
+[33md72e5670[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m8ebe428e[m updated code
+[33m8fd52173[m design fix me
+[33m8046c02d[m Build Errors
+[33m1605436f[m Merge pull request #183 from dmihfc/abhi-user-manage
+[33m64cbc57d[m Merge pull request #182 from dmihfc/raviIdb
+[33m162d563a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md6fe6806[m error handling work done
+[33m245bbecb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m6545c307[m Sanction and Rejection Letter
+[33md92d136a[m Merge pull request #181 from dmihfc/raviIdb
+[33m5b4c43e5[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m5ee6ef00[m loan info bugs resolved
+[33m7be15aac[m Merge branch 'income' into gautam-incomenew
+[33mab28ba2d[m resole confilicts
+[33m810991a2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m45ef14e6[m income work
+[33ma09346da[m Merge pull request #180 from dmihfc/raviIdb
+[33m579888c4[m update code after resolved conflict
+[33m99fb08ac[m resolve conflict
+[33m837619fb[m resolve conflict
+[33mb3ce6a89[m document upload work
+[33m91da5133[m API binding for re-assignment
+[33mf7e467ea[m Merge pull request #179 from dmihfc/gautam-incomenew
+[33m0e094632[m income work
+[33mc6f09229[m chng in css to reduce size of model
+[33mab3994cb[m add key for getassignment API url
+[33m3806e0bf[m income work 11
+[33mdb26f882[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m8f58898b[m changes in code in aplication-queue
+[33m04b58bc6[m Merge pull request #178 from dmihfc/diksha-sidememnu
+[33m3a4232fd[m Merge pull request #177 from dmihfc/yo-task-list
+[33mda6993eb[m income validation
+[33m202f77b2[m income validation
+[33m3200c5d7[m[33m ([m[1;31morigin/diksha-sidememnu[m[33m)[m resolve conflict
+[33m19ebbdf5[m update submodule and moduelName through API
+[33md0928248[m Merge pull request #176 from dmihfc/gautam-incomenew
+[33m1c86e893[m Merge pull request #175 from dmihfc/raviIdb
+[33m80bb0c1c[m Merge pull request #174 from dmihfc/gautam-new
+[33mbbc379d8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m2638f656[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m44a4bc28[m technical firing module done
+[33m3be5ef80[m income work 6
+[33m580d59a0[m Merge pull request #173 from dmihfc/abhi-user-manage
+[33mbd796575[m Bugs
+[33mdba2e279[m removed console logs
+[33m28b7e7e1[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33mefc2f2b8[m PD Report and ADD User in Master
+[33md60b992a[m Merge pull request #171 from dmihfc/yo-insurance-chng
+[33mace4efe4[m chng approach to handle data binding
+[33ma9a41258[m[33m ([m[1;31morigin/yo-insurance-chng[m[33m)[m resolve conflict
+[33mea35c348[m build error fixes
+[33meb14d471[m income work 5
+[33m6c17f992[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33ma0479b70[m income bck 5
+[33mc3ea35a1[m change in style.css
+[33m118ffe97[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into diksha-sidememnu
+[33ma6411653[m UI Changes
+[33m45636942[m login fee transfer amt row disable
+[33m70b26575[m Merge pull request #169 from dmihfc/raviIdb
+[33m7a65ad03[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m18d05056[m cpv rcu document upload work done
+[33mc15d6c2c[m resolve conflicts income
+[33m229917d7[m income back 4
+[33mbf4c0a8a[m Merge pull request #168 from dmihfc/yo-task-list
+[33m4801c7d9[m changes in aplication-queue to reset list on changin of status
+[33maacb2239[m changes to show status
+[33m7800750e[m User management and PD Report
+[33m14f18862[m Merge pull request #167 from dmihfc/revert-164-gautam-incomenew
+[33me60193a3[m[33m ([m[1;31morigin/revert-164-gautam-incomenew[m[33m)[m Revert "Gautam incomenew"
+[33mc484a345[m Merge pull request #166 from dmihfc/yo-task-list
+[33m079e7ee7[m restrict tab push
+[33mcd421ec9[m changes in aplication-queue
+[33m92ba269e[m Merge pull request #165 from dmihfc/yo-hunter
+[33mac44b066[m Merge pull request #164 from dmihfc/gautam-incomenew
+[33m9a66454b[m Merge pull request #163 from dmihfc/diksha-sidememnu
+[33mcf8876e1[m Merge pull request #162 from dmihfc/yo-task-list
+[33m2207a7f6[m[33m ([m[1;31morigin/income[m[33m)[m change css in income
+[33m6ef2e271[m[33m ([m[1;31morigin/yo-hunter[m[33m)[m remove console.log statement
+[33m62679030[m resolve conflit
+[33m699466d2[m chng in aplication-queue
+[33mac0cdcdb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into diksha-sidememnu
+[33m24ddf15a[m UI Changes
+[33m597e8625[m data changes according to route.params
+[33mb661c6f0[m moving code from sidebar to aplication-queue.ts
+[33m4805c509[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m2b556628[m income work 31
+[33me07d8f92[m add padding on tab
+[33m920f06af[m Merge pull request #161 from dmihfc/raviIdb
+[33mc16fea0b[m tab updated
+[33m3336770a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m1a7585db[m actico work done
+[33m57fe50a8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33m2af2377b[m income work 30
+[33ma8f99009[m all logic added
+[33m60042077[m change route from -mytask/app-queue/queueID/queueName to -mytask/queue/queueNameFor
+[33m995b18da[m Merge branch 'master' into yo-task-list
+[33m8e11195e[m Merge pull request #160 from dmihfc/abhi-user-manage
+[33mdec9d84f[m Merge pull request #159 from dmihfc/yo-success-page
+[33m1c21380f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into abhi-user-manage
+[33m4171309b[m[33m ([m[1;31morigin/yo-success-page[m[33m)[m add succees page
+[33m09c2e6fb[m Loan Acceptance Changes
+[33m77c931a9[m income 29 work
+[33mc76e1979[m chngs continue
+[33mfb3375d6[m Merge pull request #158 from dmihfc/yogesh-kyc
+[33mb4efdebf[m Merge pull request #157 from dmihfc/yo-bureau
+[33mfa7557f3[m[33m ([m[1;31morigin/yogesh-kyc[m[33m)[m update kyc design
+[33m5e45a3b5[m add selected keywords
+[33m5a352079[m chngs
+[33m3a26a5a5[m binding in bureau to local json
+[33m9240f06c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m05991920[m type detail code changes update
+[33ma6d06495[m changes income
+[33mdc2d364d[m Merge pull request #156 from dmihfc/gautam-new
+[33m5ef42d0b[m master display change
+[33m274aa3a6[m income chnag
+[33m0d6c9239[m Merge pull request #155 from dmihfc/aayushi-bank-transaction-changes
+[33m363c10bc[m Merge branch 'master' into yo-insurance-chng
+[33mff6e2f24[m[33m ([m[1;31morigin/aayushi-bank-transaction-changes[m[33m)[m Final fixes
+[33mf686c98e[m Fixed unique month-year while edit in bank-transaction
+[33mb993c474[m changes in insurance-details
+[33m2f06c5c3[m Change keywords in api for insurance and in code as well
+[33m5f3d8517[m Merge pull request #154 from dmihfc/abhishek-loan-acceptance
+[33m204b9e7f[m[33m ([m[1;31morigin/abhishek-loan-acceptance[m[33m)[m Loan Acceptance Component
+[33m8e9817b1[m Draft duplicate bank issue fix
+[33m4f9bfb38[m Removed debugger
+[33m53882fcf[m Fixed bank-name and account change
+[33mc05be597[m Integrated unique bank-name and account no. check functionality
+[33meed4aee4[m Done transaction and bank-validaton changes
+[33mf0465a95[m Merge pull request #152 from dmihfc/aayushi-ui/ux-changes
+[33m32198e61[m Merge pull request #153 from dmihfc/gautam-new
+[33m5c0c8f78[m income bck 24
+[33m04151eed[m Fix null issue
+[33m0d59e949[m Bank Detail Changes - Implemented Unique Year-Month feature - Fixed issues after new change
+[33m69b5f7f8[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam-incomenew
+[33me01d3d81[m update dedupe
+[33mb0033fb3[m Merge pull request #151 from dmihfc/gautam-new
+[33m439d2925[m dedupe final remarks add
+[33m93360880[m Merge pull request #150 from dmihfc/yogesh-kyc
+[33m64909fb0[m Merge pull request #146 from dmihfc/aayushi-ui/ux-changes
+[33m67d84643[m add '/' from route for kyc
+[33mf395bfe7[m Merge pull request #149 from dmihfc/yogesh-kyc
+[33m920e1f81[m resolve conflict
+[33m28e26a80[m add method to check kyc component and show url
+[33mc31b6b0d[m test change
+[33md819a2e6[m add method to check kyc component and show url
+[33m2052da17[m check changes
+[33meb4d2a89[m income work 23
+[33m13419b6f[m Merge pull request #148 from dmihfc/yogesh-kyc
+[33m9cdb601e[m Merge pull request #147 from dmihfc/raviIdb
+[33med3ffe18[m fix type for datePipe
+[33m33d204b2[m updated code
+[33ma6e3e680[m Fixed credit in bank-details
+[33m8759ae8a[m Done icon and text changes in bank-details
+[33mf504c086[m Added row beneath applicant tabs in bank-details
+[33mc56daa7e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m52300d5e[m build error resolved
+[33m8bae9aa3[m Merge pull request #144 from dmihfc/raviIdb
+[33m0744eccc[m update code after resolved conflict
+[33m0d0b85c9[m cpv applicant work
+[33ma786f417[m Merge pull request #143 from dmihfc/yogesh-kyc
+[33m6ae4c65b[m conflict resolved
+[33mf55d3b02[m kyc changes
+[33m2e3df65b[m form working fine
+[33me228f5c8[m changes done for kyc
+[33mbdf403f5[m changes to transfer kycID in params
+[33ma34fc520[m changes in personal
+[33mbfc23989[m Merge pull request #141 from dmihfc/abhishek-bureau
+[33mdc823451[m[33m ([m[1;31morigin/abhishek-bureau[m[33m)[m bureau-high mark
+[33m80f75af0[m change as new changes
+[33mb684b3f1[m Merge pull request #140 from dmihfc/master-kyc
+[33m6cc8c35d[m kyc page shift out of any module and ready to serve under app.module
+[33me2404be9[m Merge pull request #139 from dmihfc/gautam
+[33m0ecf615c[m personal draft change detect
+[33m98144a11[m Kyc form
+[33m0211d014[m login fee validations
+[33m42387691[m canges in hunter
+[33m7a4ae9af[m changes continue
+[33m522499af[m Merge pull request #138 from dmihfc/raviIdb
+[33m9ab98bb7[m multipart form data work
+[33m2236e790[m binding done
+[33m6d11a97c[m Bind data for hunter approval section
+[33me26bb189[m Bind data for hunter approval section
+[33ma4eb2e82[m bind data to show in form
+[33m862217cc[m Merge pull request #137 from dmihfc/raviIdb
+[33m40594c23[m Merge branch 'master' into raviIdb
+[33me3162435[m Merge pull request #136 from dmihfc/gautam
+[33m0c442c2c[m update code
+[33ma2ada94f[m build error fix
+[33macd6f0f2[m Merge branch 'raviIdb' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m4453e841[m update code
+[33mdf1a3adb[m cpv verification work
+[33m5167362b[m create new page kyc
+[33m060de6fc[m login fee changes
+[33me53e2b92[m chns
+[33mffe6a8d7[m fix code
+[33m033fa19e[m create method to add date
+[33m1229d3cd[m hunter
+[33m17c5508f[m hunter fix
+[33m34131c69[m changes in hunter
+[33m36742241[m update code after resolved conflict
+[33m4e694ceb[m cpvRcu verifiction work
+[33m827e0914[m Add date format and check that closure date starts only after
+[33m3360163c[m Merge pull request #133 from dmihfc/ravinder/currency
+[33m30ee90ab[m added currency pipe
+[33mae335c22[m Merge branch 'master' into yogesh-hunter
+[33mf12e3717[m hunter changes
+[33m83ac742d[m Merge pull request #132 from dmihfc/Abhishek
+[33mcc8e03d3[m login fee changes
+[33m982c6b87[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33me7db153d[m[33m ([m[1;31morigin/Abhishek[m[33m)[m Waiver-details
+[33mee87c11d[m Merge pull request #131 from dmihfc/abhishek-waiver
+[33m28a1b2d5[m[33m ([m[1;31morigin/abhishek-waiver[m[33m)[m Waiver-details component and ROI
+[33m7d619905[m update code
+[33m495fe35d[m cpvRcu work
+[33mf2b371e6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m02075459[m Merge pull request #130 from dmihfc/himanshu/bank-detail-enhancements
+[33mddc9c4cb[m Merge pull request #129 from dmihfc/yogesh-hunter
+[33m520209aa[m Add condition to prevent visibility of hunter section
+[33mb576ddd0[m Optimize Import
+[33m8c6b866d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m80179e42[m Merge pull request #128 from dmihfc/himanshu/bank-detail-enhancements
+[33mca247db4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m38b4daa8[m Fix Draft API
+[33m1d36a2af[m Fix draft application submit
+[33m12e9a46b[m Fix draft application submit
+[33ma2e1b62e[m Bank Detail Changes - Implemented Draft Bank feature - Fixed Average bank balance
+[33m0a815d0d[m Bank Detail Changes - Implemented Edit Bank functionality - Implemented tab change functionality
+[33ma2221a00[m Merge pull request #127 from dmihfc/abhishek-roi
+[33mea7772bd[m[33m ([m[1;31morigin/abhishek-roi[m[33m)[m Merge branch 'master' into abhishek-roi
+[33md5415f4c[m removed parameter in submit30()
+[33mdbdfd027[m Merge pull request #126 from dmihfc/yogesh-hunter
+[33m38c8d203[m post binding in hunter
+[33m889d34b7[m otp commit
+[33mdbf80e92[m add variable for final status and assignment date
+[33m3023fda0[m Merge pull request #125 from dmihfc/abhishek-roi
+[33m3d6de256[m Merge pull request #124 from dmihfc/yogesh-hunter
+[33mb70f4664[m Merge pull request #123 from dmihfc/gautam
+[33medd4440c[m Merge branch 'master' into abhishek-roi
+[33m1226cdbc[m ROI changes
+[33m342b9bf4[m data bind to Hunter Section
+[33m379575ff[m dedupe fix
+[33m546b40b1[m Binding in hunter
+[33md710f2de[m Merge pull request #122 from dmihfc/gautam
+[33m923e4154[m dedupe chnages
+[33m572d82cd[m Merge pull request #121 from dmihfc/raviIdb
+[33m2b7e1403[m Merge pull request #120 from dmihfc/master-build-fix
+[33m6e60b244[m fix build
+[33m473bd70a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m660febcb[m update code of liability and assets
+[33mdf94d87f[m Merge pull request #119 from dmihfc/raviIdb
+[33mda4caadc[m build error fixed
+[33meb2bf051[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m59fb8fd7[m update code
+[33m22de36be[m Merge pull request #118 from dmihfc/gautam
+[33mb8fb5183[m otp modal window
+[33m71f23b8b[m Merge pull request #117 from dmihfc/raviIdb
+[33me0adfab7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m96706237[m document upload work done
+[33m838f4c73[m Merge pull request #115 from dmihfc/rakesh_newBankDesign
+[33m696f3969[m Merge pull request #116 from dmihfc/ravinder/routing
+[33m68b5d1df[m fixed draft menus
+[33mbcaa5706[m New Permission added
+[33m258a27cc[m Merge pull request #114 from dmihfc/ravinder/routing
+[33md062ac55[m fixed routing issues in los
+[33mbbf9331c[m[33m ([m[1;33mtag: v0.20.0107.2[m[33m)[m Merge pull request #113 from dmihfc/master-build-fix
+[33mf33c0591[m Add keys in ts file to resolve build
+[33ma5b3464c[m[33m ([m[1;33mtag: v0.20.01.07[m[33m, [m[1;33mtag: 1.0.0[m[33m)[m Merge pull request #112 from dmihfc/gautam
+[33m5eb65bf2[m conflict resolved
+[33m4615142b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33m7ed339be[m Merge pull request #111 from dmihfc/rakesh_newBankDesign
+[33m3487351e[m console remove
+[33mf83e25aa[m permission change for personal..
+[33m9f091a1f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7820baf9[m update code with latest changes
+[33mf1cdb38b[m Merge pull request #109 from dmihfc/raviIdb
+[33m69f3ef60[m update code after resolved conflict
+[33mb140c263[m fixed bugs
+[33mebed9dbd[m mobile verification
+[33mc586e8fd[m Merge pull request #108 from dmihfc/revert-105-abhishek-bank
+[33md9489eb6[m[33m ([m[1;31morigin/revert-105-abhishek-bank[m[33m)[m Revert "bank-details UI changes(06-01)"
+[33mf9f1b3a8[m Merge pull request #107 from dmihfc/rakesh_newBankDesign
+[33md2f237e6[m permision ID change to Attributes
+[33m792556ce[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into rakesh_newBankDesign
+[33m38603916[m Merge pull request #106 from dmihfc/gautam
+[33m90525683[m Merge pull request #105 from dmihfc/abhishek-bank
+[33m71a77750[m Merge pull request #104 from dmihfc/yogesh-emp
+[33m7651cd39[m error resoled 3 jan
+[33m558e0ef3[m[33m ([m[1;31morigin/abhishek-bank[m[33m)[m bank-details UI changes(06-01)
+[33m597a1e55[m Merge branch 'master' into yogesh-emp
+[33mee16ed95[m add cancel button on sanction condition
+[33m454ba982[m add cancel button
+[33ma30face6[m design fixed
+[33mec3a878b[m Merge pull request #103 from dmihfc/yogesh-emp
+[33m68da0705[m Add cance button
+[33m1e431fbf[m Merge pull request #102 from dmihfc/gautam
+[33me0729705[m error personal and loan
+[33mb42d5fa3[m Merge pull request #101 from dmihfc/yogesh-emp
+[33mbab71fbf[m Merge pull request #100 from dmihfc/rakesh_newBankDesign
+[33m0ee11f55[m Add applicant name
+[33m0f5e581a[m permission new added with id define
+[33mbe10abd8[m Merge pull request #99 from dmihfc/raviIdb
+[33m6435d226[m update code after resolved conflict
+[33m78433576[m fixed bugs and implement mat calender work
+[33mb985fc9e[m Merge pull request #98 from dmihfc/rakesh_newBankDesign
+[33m243e7e78[m permission
+[33m4eee1ca5[m format code
+[33m041fb3c4[m Merge pull request #97 from dmihfc/emp-master
+[33maf629cd0[m add directive to prevent .%,
+[33m02674d7d[m fixed issue
+[33m91bfc6be[m Issue fixd in layout and add maxlength in experience
+[33ma1f1befe[m Merge pull request #96 from dmihfc/yogesh-underwriting
+[33mf8475002[m update layout for add sanction condition
+[33mc76b62b8[m Merge pull request #95 from dmihfc/yogesh-underwriting
+[33mac0d1103[m Merge pull request #94 from dmihfc/master-login-fee
+[33mfe8b6d00[m Merge pull request #93 from dmihfc/rakesh_newBankDesign
+[33m2f649072[m Merge pull request #92 from dmihfc/raviIdb
+[33md756f517[m hide sr. column
+[33m383e45d4[m dd status text
+[33m971ae0e6[m Changes done with Marging From Master and issues resolved
+[33ma7437f4b[m Add data in row fixed
+[33m2e338dbc[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m70bbe3ed[m login page company list api integratio
+[33mf3c3524d[m Login Fee Data fixed
+[33m6b9f62e0[m Edit and update function fixed
+[33m99b2324b[m delete functionality fixed for payment
+[33m4d8a266b[m[33m ([m[1;33mtag: v0.19.30[m[33m, [m[1;33mtag: v0.19.12.30[m[33m)[m Merge pull request #91 from dmihfc/yogesh-underwriting
+[33mdde101b2[m resolve conflict
+[33m46af3cfe[m Merge pull request #89 from dmihfc/himanshu/bank-form-modifications
+[33m3071ee8b[m chng allignment
+[33md180711c[m Modified bank form
+[33m97562e23[m bug fixed for sanctionConditionID
+[33m90a9a3bc[m add message for deviation and condition
+[33m98dbfd9c[m Update underwriting
+[33m00e018d4[m Add method for deletion of deviation while status is update and createdBySequence is equal to loggedInUser sequence
+[33ma337bb37[m chnages to allow to edit deviation createdBy same user
+[33m3163c063[m Employment-details validation message
+[33m21b29a3a[m chng -1 to null for each ID
+[33m9e835f19[m Turn justification to optional
+[33mfc4c5a61[m swap authoritysequence with this.getAuthorization() to check permission during deletion
+[33mc03c9a10[m Merge pull request #87 from dmihfc/yogesh-underwriting
+[33mf557e431[m Merge pull request #86 from dmihfc/rakesh_newBankDesign
+[33me2808289[m Error fixed with createBySequencID
+[33m3aaad452[m Add created by sequenceID
+[33m10c8d4fc[m Update edit/delete/create issue on deviation
+[33m7fbb3881[m rest permission on hunter and other
+[33mfdf0dee6[m Merge pull request #85 from dmihfc/raviIdb
+[33m5b5676ef[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33ma63ce741[m new changes
+[33m2a4737ea[m Merge pull request #84 from dmihfc/rakesh_newBankDesign
+[33md48ff056[m parmission added
+[33m94daee9e[m Fix edit issue
+[33m5928ae1d[m Merge pull request #83 from dmihfc/raviIdb
+[33mdde9f26f[m Fix layout for popups
+[33md878e679[m Update edit deviation button copy while edit and create new and fix post issue
+[33m9a7231a9[m Write method to prevent deletion of deviation if status alredy filled
+[33m8212b29e[m select value condition work on guarantor module
+[33mb7cf400c[m fix Deletion issue on deviation
+[33md8b04361[m Write method to update status authority wise
+[33md3a44877[m Write method to prevent status update or allow depend on authority level
+[33m8cfebc5f[m Update to prevent addition of new duplicate deviationDetailID
+[33mf980b5bc[m Update position and copy of Deviation button
+[33m65676595[m Commented debugger
+[33ma91fbfce[m Merge branch 'master' into yogesh-underwriting
+[33md8dd01c0[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m421596e0[m Changes to fix delete
+[33mb90d7372[m Merge pull request #82 from dmihfc/rakesh_newBankDesign
+[33m66c2e44d[m Loan appraisal error fix for build
+[33m38b1c251[m Merge pull request #81 from dmihfc/raviIdb
+[33mfa136fe0[m modal and modal form design & functionality work done
+[33m22d3d4ad[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mfb836508[m code backup
+[33mda84465a[m design changes with Sir & API change for error bug in scheme
+[33me7076865[m Add method to reset add deviation form after edit method only
+[33m9aa56136[m Add method to reset add deviation form after edit method only
+[33mb5c0307f[m Set and get authority sequence from session storage
+[33md970f7b1[m Merge pull request #80 from dmihfc/yogesh-underwriting
+[33me5ed25e0[m Merge pull request #79 from dmihfc/raviIdb
+[33m4e31f662[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m3a1d41d1[m document work
+[33m954de479[m Update for status a
+[33m6378591c[m Update status update closed
+[33mbd067f54[m Remove Row
+[33mff27539d[m changes
+[33m85acaacf[m add Change size for underwriting details
+[33me257e079[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m0c2bccba[m Merge pull request #78 from dmihfc/yogesh-underwriting
+[33me9a597ee[m Close modal on edit, add
+[33m70089caf[m Merge pull request #77 from dmihfc/rakesh_newBankDesign
+[33md5417669[m design change and bug fix for hunter
+[33m9fef1e5f[m add modal to deviation form
+[33mb4dd3ad1[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into rakesh_newBankDesign
+[33m88e15c8a[m Add method to check whether deviationHeadID already exists or not
+[33m88411ede[m update code
+[33m7913e701[m Merge pull request #76 from dmihfc/yogesh-underwriting
+[33m1ffa1609[m Reset master pull
+[33m8857b4fe[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m7ecffa03[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into rakesh_newBankDesign
+[33m81bf5780[m utility updates
+[33mc2dc0d32[m Merge pull request #75 from dmihfc/master
+[33meff27e3c[m Merge pull request #74 from dmihfc/raviIdb
+[33m80d25ac7[m Merge pull request #73 from dmihfc/gautam
+[33mf63822c7[m add modal and add button
+[33m7251e80d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mcfcbd2a0[m Fix sanctionconditin grid layout by rakes
+[33m70d0cf31[m hunter changes
+[33m237b1eaa[m Resolve build issue, and add userDetails in session storage
+[33m88604490[m update code after resolved conflict
+[33m67cea3b6[m hunter intialise
+[33md6f64d75[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into rakesh_newBankDesign
+[33me5c0df8d[m Merge pull request #72 from dmihfc/raviIdb
+[33m844214b3[m Merge pull request #71 from dmihfc/yogesh-underwriting
+[33mc36de1b9[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33md92e8ad6[m document upload modal component
+[33m81c2d30f[m Need to add delete condition in html to hide currentROw for sanctionCondition
+[33m55a00caf[m Merge pull request #70 from dmihfc/gautam
+[33mbe01cd43[m Merge pull request #69 from dmihfc/raviIdb
+[33m37a00375[m personal
+[33m866cda08[m Add method to delete deviation data from table
+[33m617007d2[m Bug fixed on sanction detail Adding duplicate
+[33mce4495f4[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m00596ea4[m reference modal work done with crud operation
+[33m30df31c8[m design for master style
+[33mfe5addc4[m Create model for underwriting post and Create post method
+[33mb909831a[m de dupe
+[33m6526de6a[m Edit complete in deviation section
+[33mfe9e58fc[m .
+[33mcf15f13f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into gautam
+[33mf69fa344[m Merge pull request #68 from dmihfc/rakesh_newBankDesign
+[33m2fddee13[m new bank missed design
+[33m57ac3242[m Add get method for Deviation details from whole underwriting details
+[33m464d48e2[m Merge pull request #67 from dmihfc/rakesh_newBankDesign
+[33m62357e1f[m Merge pull request #65 from dmihfc/raviIdb
+[33mdd5a1961[m Merge pull request #63 from dmihfc/insurance-yogesh
+[33m4c1fb8ec[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33mf16b981b[m liabiality and asset new design and validation work
+[33m690b04b6[m select field change
+[33mb548cd33[m Changes in loan information
+[33m6ecd00cc[m Comple status update action
+[33m4c0fd5e7[m Change titles and styling on homepage
+[33m71cfc882[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mdaf37685[m Update status - 1
+[33m18e90cd1[m Deviation form data submit in array and show in table
+[33m40c77359[m Fetch Insurance button disabled as per Devender Sir Reqr.
+[33m17eb28cc[m Merge pull request #62 from dmihfc/insurance-yogesh
+[33mc74012f0[m - Enable Nominee Form if Nominee from others list, - Nominee Dropdown must be open always
+[33mbd36c211[m misc change
+[33ma241f6e3[m update code
+[33m2b8e2232[m add underwriting info
+[33m3e304d76[m Merge branch 'master' into yogesh-underwriting
+[33m1c278f5a[m liability and asset modal screen work
+[33m86e3259d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mb8d30fdd[m Merge branch 'insurance-yogesh' into yogesh-underwriting
+[33m7ce7f6a1[m Merge pull request #60 from dmihfc/rakesh_newBankDesign
+[33m86f463aa[m Merge pull request #61 from dmihfc/insurance-yogesh
+[33m3fe02054[m Resolve issues
+[33m6d992081[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m4713bbef[m Fix bug on nominee change
+[33ma53c90ca[m applicant age common configured
+[33meb7a3c0a[m directive regex fix
+[33me4a71985[m document checklist no-app show and api change to leadid
+[33m00a113e4[m Changes to add deviation data to table
+[33m57798e87[m Fixed build issue
+[33m7baa2fe2[m Update angularpublish.yml
+[33mbe0b3bcd[m Merge pull request #59 from dmihfc/gautam
+[33m5798bcb3[m package json update
+[33m5b531614[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into rakesh_temp
+[33m5fe2dc69[m Revert "Revert "Merge branch 'master' of https://github.com/dmihfc/angularrepo""
+[33mf2815cb1[m Underwriting Add Deviation step -2
+[33m87d2532c[m[33m ([m[1;31morigin/rakesh_temp[m[33m)[m Revert "Revert "Revert "Merge branch 'master' of https://github.com/dmihfc/angularrepo"""
+[33mda7ed081[m Revert "Revert "Merge branch 'master' of https://github.com/dmihfc/angularrepo""
+[33m121d4c9b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m9cc5873c[m underwriting details
+[33m0a453dd0[m Change copy for relation with appointee to relation with nominee
+[33mfd53f57d[m changes in insurance
+[33m337d06fe[m Add Deviation code -1
+[33md4e56658[m Add Deviation code -1
+[33mbd6285e5[m de dupe start
+[33m19465505[m Revert "Merge branch 'master' of https://github.com/dmihfc/angularrepo"
+[33mfb685232[m Merge pull request #58 from dmihfc/revert-57-raviIdb
+[33mdafbed25[m Add get method to get data
+[33m8a39ec1c[m[33m ([m[1;31morigin/revert-57-raviIdb[m[33m)[m Revert "Ravi idb"
+[33m0ec33466[m Merge pull request #57 from dmihfc/raviIdb
+[33m85f2528a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m1eb897b6[m guarantor module work
+[33m4baaa7db[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m20372d17[m Change Key names according to API Changes
+[33m34f48b1a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mf49bbf5e[m Merge pull request #56 from dmihfc/gautam
+[33maa355183[m personal add commit
+[33m7cf82070[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m46c36729[m Merge pull request #55 from dmihfc/gautam
+[33m44d6c8a1[m mytask api binding commit
+[33me7f7c3c7[m Design Change
+[33m6e7b3443[m update code
+[33m4a1ecbb3[m update code
+[33m72cc84d5[m validation directive update
+[33mccbc0e14[m Merge pull request #54 from dmihfc/gautam
+[33mea8e293d[m directive update
+[33m0626c68c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m724fcd8b[m Merge pull request #53 from dmihfc/raviIdb
+[33mb0f6d176[m update code for build
+[33m8bb951a5[m Merge branch 'insurance-yogesh'
+[33mb97927ba[m Try to fix issue in post on GG00003
+[33m6c89c4ca[m Merge pull request #52 from dmihfc/gautam
+[33m8a77d6d7[m Merge branch 'master' into insurance-yogesh
+[33m656138e3[m Fix Date of birth in case of, if nominne is among co-applicant
+[33maab8f446[m Merge pull request #51 from dmihfc/raviIdb
+[33md0e849a6[m personal commit
+[33m1ae34b17[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into raviIdb
+[33m7a07f423[m update code
+[33m32366683[m Merge pull request #50 from dmihfc/insurance-yogesh
+[33me451669d[m Merge branch 'master' into insurance-yogesh
+[33m923260e7[m Max length set on sum assured and premium bcz api throws error
+[33m853238ef[m Add maxlength for premium , sumassured , tenure
+[33m64769627[m guarantor module work update code
+[33ma24cedea[m Merge pull request #49 from dmihfc/gautam
+[33me5755516[m Design changes
+[33m8664e539[m bug fix commit
+[33m2e17134b[m Merge pull request #48 from dmihfc/insurance-yogesh
+[33m8622da8b[m add event/juggad for insurance
+[33m918dfd0d[m Merge pull request #46 from dmihfc/yogesh-emp
+[33m7f5e5ec4[m Name in regExConstant file renamed
+[33mdc93392c[m ValidationConditionConstants file renamed to regExConstant
+[33md9f22b27[m Merge pull request #45 from dmihfc/yogesh-emp
+[33m36ce48b6[m Merge branch 'master' into yogesh-emp
+[33mfd1ed6a5[m Merge pull request #44 from dmihfc/gautam
+[33ma50afdbd[m Bug fixed in draft cases
+[33mddbadb3d[m[33m ([m[1;31morigin/Rakesh[m[33m)[m dark design changes
+[33mfcf23f04[m my task commit
+[33ma54ea2a3[m Merge pull request #43 from dmihfc/yogesh-emp
+[33md729ea39[m Merge branch 'master' into yogesh-emp
+[33m815874bf[m All draft must go in one submit
+[33m4a467de8[m All draft must go in one submit
+[33m40b4c2d2[m Add code to push whole obj in case of applicandID is null
+[33mf10b4023[m Rename angular_publish.yml to angularpublish.yml
+[33m0d941179[m Add data for single applicant
+[33m68213ed3[m commit to issue resovle
+[33maecf1d85[m added angular auto deployment
+[33m92089631[m Add leadApplicantNumber in post payload
+[33mbf5c42a2[m Merge pull request #37 from dmihfc/yogesh-emp
+[33mb1cf3d0a[m Merge pull request #40 from dmihfc/feature/income-new
+[33m071318a6[m Merge pull request #42 from dmihfc/insurance_branc-yogesh
+[33m36068a1d[m Merge branch 'master' into yogesh-emp
+[33m576362e8[m Merge branch 'master' into insurance_branc-yogesh
+[33m83f104c3[m Insurance Agency name updation done
+[33m3152b75a[m Merge pull request #41 from dmihfc/gautam
+[33m60137993[m personal update commit
+[33m45661ba4[m Merge branch 'master' into feature/income-new
+[33mfa49edb3[m assessed income
+[33m386184b5[m API added for insurance agencies name
+[33mf489721d[m final preview page
+[33mf36a6148[m assed income
+[33m477cc776[m Remove unused imports
+[33m26f35399[m Merge pull request #39 from dmihfc/feature/income
+[33m22d8d8ae[m[33m ([m[1;31morigin/feature/income[m[33m)[m Merge branch 'master' into feature/income
+[33m1e0d0c28[m ITR
+[33mbafb1366[m Merge pull request #33 from dmihfc/himanshu/bank-details-new
+[33m9abff80b[m ITR
+[33md21ab3c5[m Error Fixed on empl
+[33m47b32f61[m basic design change
+[33m4c69c7af[m Merge pull request #36 from dmihfc/yogesh-emp
+[33mcc2fa181[m Merge branch 'master' into yogesh-emp
+[33md4588c82[m Code revert
+[33mfd6030c3[m Merge pull request #35 from dmihfc/yogesh-emp
+[33m6f8c499e[m Merge branch 'master' into yogesh-emp
+[33m84eaf864[m Code revert of draft case
+[33maa0e345b[m Merge pull request #34 from dmihfc/gautam
+[33m897da4b2[m perosnal validation commit
+[33m0e20bfdb[m assed income
+[33m30ef79ab[m Merge branch 'master' into himanshu/bank-details-new
+[33m378c4e4c[m Final changes
+[33m637dac12[m Merge pull request #32 from dmihfc/insurance_branc-yogesh
+[33mf54e16b8[m Merge branch 'master' into yogesh-emp
+[33m90622765[m Implemented add bank functionality on empty applicant's data
+[33m3ece940f[m Merge pull request #31 from dmihfc/gautam
+[33maa5dfb21[m Implemented Add new bank with Submit Data functionality
+[33m6f656e95[m Calculated Total and average
+[33m8bf73008[m Minor fixes
+[33m796ca502[m New API Implementation
+[33m15463a7a[m Fixing API
+[33m8842a99b[m Applicant list change to lead id as changes in API
+[33mb1c97e60[m Merge pull request #30 from dmihfc/gautam
+[33m375db3b2[m conflict resoled
+[33m72bb28dd[m Changes to send applicationId if available other wise Null in post api
+[33mc73d9105[m Code for Draft changes
+[33m7fb8cb65[m mereged
+[33m17881d52[m changes by deven sir
+[33ma86c9936[m change in Employment-details to change application number from ladid
+[33m3f3fdf9d[m Merge pull request #29 from dmihfc/insurance_branc-yogesh
+[33m98417c11[m Insurance details done
+[33m0fee625f[m Remove submitted4 from controller
+[33m862117af[m Merge branch 'master' into insurance
+[33md7a9fb50[m Changes to add runtime validation
+[33m684398d1[m asses form
+[33m5028f663[m design changes on 29-11
+[33m4584a073[m Change in Validtion message for decimal fields
+[33m24743ae4[m Nominee enabled Bugs fixed
+[33md412027f[m add restriction for rows in textarea
+[33m6bd86258[m Merge branch 'master' into gautam
+[33m7421d557[m personal nad loan info changes deven sir
+[33m68dfec5e[m cash salary
+[33m21e6336c[m Add logic to populate pin data in case of matching nominee from applicant list
+[33m796fab3b[m Creating nominee from details
+[33m45350d53[m Add url for Insuree Details from personal get api
+[33m003abddd[m secoundry form
+[33mb88352f8[m changes to revert state on insurance
+[33m11f2057c[m changes in lead-info-bar file
+[33m1b59295c[m cash salary calculation
+[33m7c21ee94[m Add insurance file s from other repo
+[33m20079e37[m Merge pull request #28 from dmihfc/yogesh
+[33mae745040[m Resolve issue on first time load
+[33mfc7bf1ac[m income form
+[33md2be35ca[m Merge pull request #27 from dmihfc/yogesh
+[33ma7cf21eb[m Message add if there is no applicant data
+[33m19caa0b4[m Add validation
+[33m1e1ba456[m json object to post
+[33m0ff04c54[m Merge pull request #26 from dmihfc/yogesh
+[33mae4a7561[m Merge pull request #25 from dmihfc/gautam
+[33mec9ac97f[m REvert code for showing message on no applicant data
+[33m06059156[m Merge branch 'master' of https://github.com/dmihfc/angularrepo into yogesh
+[33m3afea8fa[m Add validation for float value
+[33me6dfad8e[m merge and update
+[33m7b213bf3[m Merge pull request #24 from dmihfc/raviIdb
+[33m4f623cf3[m commint for change in UI
+[33m7e6435ba[m set default result
+[33m545dcafa[m Fix if there is not applicant
+[33m60d9694d[m some changes, get data according to lead id
+[33m9cdba70d[m update code after resove conflict
+[33m32575c67[m just update latest code
+[33m3412b955[m add submitted with dirty condtition
+[33m350e6289[m Merge pull request #23 from dmihfc/yogesh
+[33m65da7e87[m Merge pull request #22 from dmihfc/gautam
+[33m7a27c1b3[m pincodee constant update
+[33m3c52bb24[m Resolve conflict
+[33mfcd14bb2[m pincode api constant update
+[33m58d8c4f7[m is referer save and tab change
+[33m519e051c[m Merge branch 'master' into yogesh
+[33ma5af4cd5[m Changes in emp-details pattern message
+[33m1ad46334[m Merge branch 'yogesh-merge' into yogesh
+[33m07a3f5ff[m Add GST pattern for small and caps letters
+[33m1dcb7adb[m Merge branch 'master' into gautam
+[33m2be8ee21[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33me8f72b73[m kyc view functionality
+[33m687aed99[m sytle updated
+[33ma9d9aeb7[m Reset whole form on click on profile
+[33m0bc33b0c[m update personal
+[33m0c4ce99f[m Merge branch 'yogesh-merge' into yogesh
+[33m06bcbe46[m Bugs resolved
+[33mac1bae6d[m error personal
+[33m22b95f52[m Merge branch 'yogesh-merge' into yogesh
+[33m816750cd[m Employment-details complete
+[33m6b30e76d[m Merge branch 'master' into yogesh
+[33me0114776[m Merge branch 'master' into gautam
+[33m41d48133[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m6f746ef2[m kyc validation
+[33mae8a7247[m Code re-fracted for emp-details
+[33m7c48f81e[m Merge branch 'feature/income' of https://github.com/dmihfc/angularrepo into feature/income
+[33m196a9520[m income form
+[33m63b3f72b[m updated
+[33m80a167f5[m Merge pull request #18 from dmihfc/feature/income
+[33m419d53e4[m Merge branch 'master' into feature/income
+[33m3b0bc4d1[m Merge pull request #17 from dmihfc/gautam
+[33m1d3a8c96[m Merge branch 'master' into gautam
+[33m6f6b25e2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m36fddc7f[m kyc crud
+[33m6edad06c[m Merge pull request #16 from dmihfc/raviIdb
+[33m6dc63649[m updated code of liability & asset, reference and property
+[33m1b7caef5[m update code after remove conflict
+[33mf1252c2b[m update
+[33m9184c194[m just update
+[33m3a6ad89d[m update code
+[33m41a19f56[m Implemented View / Edit functionality
+[33m3bff9aeb[m Merge branch 'feature/income' of https://github.com/dmihfc/angularrepo into feature/income
+[33mc4849274[m login fee
+[33m535d8b07[m task done(property, reference and liability & asset)
+[33mfe457ba3[m git merge
+[33m934d1d09[m secoundry form
+[33mc5a9e0e6[m Merge branch 'master' into feature/income
+[33m75691523[m no message
+[33mdfb66e54[m document checklist update
+[33m131add15[m final
+[33mf375423c[m Merge branch 'master' into gautam
+[33m0fbacadd[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m1d3952b5[m Merge pull request #12 from dmihfc/iamhssingh/hotfix/document-checklist
+[33m329ee165[m no message
+[33m61d9e939[m Editable Transaction
+[33mbfec1709[m Showed & disabled bank details from html
+[33m610aa9d0[m Showed & disabled bank details
+[33mf7ff5a29[m Fixes minor referential bug
+[33mcea16d45[m Merge remote-tracking branch 'origin/himanshu/bank-details-new' into himanshu/bank-details-new
+[33m30ea4e03[m Refactors transaction and bank listing
+[33m1b98ce9d[m Sent ApplicantID on tab change
+[33m33fc2ea2[m Showed transactions
+[33mf40aa902[m Showed transactions
+[33m3e3f8eb2[m Used reactive form to access bankdetails, added confirmation dialog box
+[33ma63bbc27[m all new changes
+[33mea70508c[m Merge remote-tracking branch 'origin/iamhssingh/hotfix/document-checklist' into iamhssingh/hotfix/document-checklist
+[33m6c78029b[m Called ReviewerType and ReviewerResponseType using masterList
+[33m22c78052[m Merge remote-tracking branch 'origin/iamhssingh/hotfix/document-checklist' into iamhssingh/hotfix/document-checklist
+[33mda4bb994[m Implements BaseComponent in document checklist Fixes TSlint errors in BaseComponent
+[33m36d8a9b9[m Called super() of derived class
+[33m6508239c[m Using Base Component
+[33m04a81e6a[m Bank Details Branch reset
+[33me4622bd9[m validation personal
+[33mc54fa5e7[m Add condition in employment-details to prevent isPensioner filed execution in case of no details from api
+[33m84d4ba0a[m changes revert in is pensioner part
+[33m34892282[m Merge pull request #11 from dmihfc/yogesh
+[33mbc13c56a[m Revert "insert formGroup"
+[33me9f5be2d[m Merge pull request #10 from dmihfc/gautam
+[33m1f3b6cb2[m Change revert in employment-details
+[33m19c53414[m Merge branch 'master' into yogesh
+[33m8c5aa79f[m changes
+[33md14b6c3a[m Merge branch 'master' into feature/income
+[33m2b4d7e44[m insert formGroup
+[33mfca4a2bc[m Merge branch 'master' into gautam
+[33m84a22c01[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m8c3ff3d0[m validation chnages
+[33mce06aa62[m no message
+[33mbbcfc699[m updated
+[33m60a9188d[m Document Checklist hotfixes
+[33mf7a8a8f2[m New formgroup inserted
+[33m117388b0[m secondry income
+[33mbc187f39[m Merge branch 'feature/income' of https://github.com/dmihfc/angularrepo into feature/income
+[33m5a00a58a[m save the data
+[33m189b3207[m lead bar open
+[33m770f290d[m Merge branch 'master' into yogesh
+[33m0df3118a[m ,. validation fixed
+[33m0df9875c[m Rever directive change and update validation accordingly in emp-details
+[33m5694ec86[m Merge branch 'master' into yogesh
+[33mfca06d0c[m Merge pull request #2 from dmihfc/iamhssingh/document-checklist
+[33mce3cdc4c[m changes revert
+[33mb18764b1[m Merge branch 'master' into gautam
+[33ma8f519fe[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m77866f82[m pincode changes
+[33m23730c4c[m application tab
+[33m91a3c701[m First Attempt to create empty formgroup
+[33m75bd9517[m Resolved merge conflicts
+[33mc9b68e69[m Merge remote-tracking branch 'origin/master' into iamhssingh/document-checklist
+[33m06dcf97f[m Merge branch 'feature/income' of https://github.com/dmihfc/angularrepo into feature/income
+[33m52f58b82[m changes fixed
+[33mb02e3a45[m Changes to fix test issue
+[33me08ad22c[m Prem First commit
+[33me69c4d6c[m Merge branch 'master' into gautam
+[33m09e5e9fe[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m11072fcb[m Merge pull request #9 from dmihfc/raviIdb
+[33mf4ef813d[m merge and loan info validation
+[33m9719b0fd[m updated type details id in grid
+[33m67bef55b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m0f50fb9c[m loan info validation changes
+[33ma98a450e[m Merge pull request #8 from dmihfc/yogesh
+[33m2ba7a812[m document checklist change
+[33m99d74cbd[m Solve pincode issue
+[33m08ab8d13[m Merge pull request #7 from dmihfc/yogesh
+[33mf0f2d0ea[m add } to resolve error
+[33m02e14c42[m Merge branch 'master' into yogesh
+[33mf33e02b7[m Merge pull request #5 from dmihfc/raviIdb
+[33m893453b3[m Resolve conflict and add disableOptionCentering in mat-select
+[33ma5c82185[m commit for merge code
+[33m613e0657[m Code level optimization and minor CSS fix
+[33m1bc513a8[m resolve error from apiConstant.ts
+[33mbd72c275[m resolve conflicts
+[33m0c579d00[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mebce5e8b[m update code
+[33m8aee93a5[m Merge pull request #4 from dmihfc/gautam
+[33m0bf2ae91[m merege all
+[33mcccdad2a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mfbef718c[m get updated code from master
+[33m593cae79[m Merge pull request #3 from dmihfc/gautam
+[33ma1854ebf[m conflict resolve and merge
+[33ma2886885[m update master fetch
+[33mb5fd15fe[m Update basecomponent.component.spec.ts
+[33mcbcf86f6[m conflict resolve
+[33mbc61edf2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33ma160abbc[m login issue fixed
+[33m9324bd18[m Income not consider condition add
+[33mb195766d[m update code
+[33m9335ffa7[m fixed bugs of property module
+[33mb809f330[m loan and personal changes by imaran fixed
+[33m178d2bd2[m chnge
+[33mab2a0dcb[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mec414a79[m fixed login issue
+[33m6e4c5ce3[m fixed login issue
+[33mec1ab54c[m fixed login issue
+[33m84586c38[m Copy change for validation message
+[33mf134f433[m Validation issue fix
+[33m03fe203b[m changes
+[33med2aba4f[m TSLint and Angular Best practices fixes
+[33me6a5aeab[m Merge remote-tracking branch 'origin/master' into iamhssingh/document-checklist
+[33mc5c19d6a[m Optimized form validation and completed ToDos
+[33m513cdfdf[m random change
+[33mab4a61c4[m Updated TODO
+[33m0fbf51db[m Put Validation, removed unused code from document checklist
+[33mf8a4ed5b[m fixed TSLint errors in api service file
+[33mdfead2c2[m fixed TSLint errors in api service file
+[33ma08fa3c3[m Showed loader, fixed css
+[33m49c6b03b[m Refactored post data on API
+[33m4b20f63d[m State ID issue fixed
+[33mc434c668[m change in login and comment swal fire code
+[33m48f1e153[m Refactored fetching data from API
+[33mc461ca5c[m Beautifying
+[33m07f4e130[m roi
+[33m039f70a6[m Pincode issue fixed
+[33m9d952efb[m merge master
+[33m78536cf2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mc5fb1ef1[m Processing fee
+[33m18694e93[m login response change
+[33m299f86d9[m Integrated post document checklist API, set value of Reviewer Response Type from Master
+[33mf48f5495[m liability code commit
+[33mfa2cd249[m personal details data save
+[33m3d365e3a[m popup for lost data
+[33mbd6c67ad[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mbe42840f[m update code with new API Method approach and merged code
+[33ma8926ebd[m remove console
+[33m9aaecd22[m Clear object on change
+[33m2f316327[m remove console
+[33m9a56fa58[m resolve conflict
+[33m2c8b3413[m All get and post data converted according to new code
+[33m0a62b7e8[m change by
+[33m1273ce8b[m Required error issue fix
+[33m8c89f4fc[m working on validation toggle issue
+[33m45243a8b[m Merge branch 'master' into gautam
+[33med638bf6[m updated code of liability and asset
+[33m8c031a19[m Remove console.log from code
+[33m11f30072[m co applicant
+[33mbcbbd81d[m Get values of document checklist form in the array format, fixed tslint issues
+[33m084c4c08[m pincode issue fixed
+[33mfea1f70d[m Integrated Document Checklist API, Applicant List API
+[33maac93ccd[m Add validation message for CashSalary/banksalary
+[33md1f9cfc5[m Add validation message for SENP
+[33m0c1efd1e[m User can select postal address manually
+[33mc72f73f6[m Merge branch 'master' into feature/income
+[33m69c8c68d[m Validation condition added
+[33m1dcac97d[m personal details post basic
+[33m69b76d35[m no message
+[33m424e2a85[m income details
+[33m4cb465a8[m Merge branch 'gautam' of https://github.com/dmihfc/angularrepo
+[33m05dab972[m EMI section
+[33mfc39b98c[m Bank details
+[33ma5553041[m loan and personal
+[33m9d44acf1[m Change form post value from GetRawValue
+[33m80489793[m Issue fixed
+[33m659b2bda[m remove logs
+[33m1b48571a[m Value of stateId set to dynamic
+[33meae4f049[m Last tab issue fixed
+[33m0c23c1ec[m common functionality change in login and loan info
+[33meb82fd1e[m Error resolved
+[33m2e490ad3[m Revert "Revert "Add Contact number to form"" Reverting to commit 978beef88e7997d6ae11967f9728ce182eadcdc3 This reverts commit 978beef88e7997d6ae11967f9728ce182eadcdc3.
+[33m978beef8[m Revert "Add Contact number to form"
+[33m20a05f4f[m Add Contact number to form
+[33mcaa988bf[m Merge branch 'master' of https://github.com/dmihfc/angularrepo Take pull from master
+[33mf87653cb[m Fix error for All Earning Members select option
+[33m682edf1a[m bank details update
+[33mf32fce86[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mbc5f575c[m 3rd party font import remove
+[33mfeb3724b[m[33m ([m[1;31morigin/feature/loginfee[m[33m)[m changes
+[33m77e655ad[m no message
+[33me3775445[m taking pull
+[33mf748770a[m Add alert after submit
+[33mbc613215[m t Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m3847d91f[m base component
+[33m07d5918d[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33maaf06f85[m CODE FOR TOSTER
+[33m31fceadf[m transfer from
+[33m74b5b025[m Clean ApiService.ts
+[33m00b1d9fc[m Fix issue with pincode
+[33m1d174feb[m changes in api service
+[33m580039be[m no message
+[33m3f037eb8[m Merge branch 'master' into feature/loginfee
+[33m80c7b873[m Merge branch 'master' into feature/loginfee
+[33mb9c8df1c[m update code
+[33m73ed2c3a[m reference and property module done
+[33mb7a2d233[m reference and property module done
+[33ma6a1f9a6[m Merge branch 'master' into yogesh-master Merging with master
+[33maef522f7[m Show date in form after getting
+[33m545e23ea[m Send null data to hidden part of form
+[33m2b5bdb8f[m Value of state district and city fixed
+[33m7f2ab229[m Data according to sub-profile error fixed
+[33mcc739a96[m attempt 1st to resolve error
+[33m64ac0d2a[m personal loan get
+[33ma243fbd2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mdae8b414[m correct submit identifier in login
+[33madd45557[m resolve conflict
+[33m4fde3d67[m Take pull
+[33mc983db3b[m personal details
+[33m3720490d[m Resolve conflicts and fix errors in getting data
+[33m0e0e0300[m loan info chnage and common change
+[33m736c8a8b[m Resolve commit
+[33mf66b7393[m resolve conflict
+[33ma4003cc3[m Changes done in employment-details component
+[33mdb45c14a[m Null Issue solved
+[33m296589b0[m Extra js file deleted.
+[33m025abbda[m delete and transferform api
+[33m985584a5[m loan
+[33ma58dd67a[m Few tweaks in employment-details to handle error
+[33md4561453[m Changes in variable names
+[33m39c23c92[m loan nad personal info
+[33mb33a0bf0[m Testing part -1
+[33m261d3f88[m no message
+[33mb737c7f5[m Error of undefine fixed
+[33mcd5617e0[m Added login fee apis
+[33m156c7242[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mab318098[m remove unused libraries
+[33md683a6c6[m added timestamp versioning
+[33mf93eaf31[m Fix Error Undefined issue
+[33m02851784[m compontant permission with utility service
+[33m69d49460[m master api call udate
+[33mde98e115[m update loan info api call
+[33m49228868[m update loan information
+[33m326fbdf7[m loan inform update
+[33m613d98c1[m fixed issues
+[33m4d5a9702[m Attempt-1, to fix error of undefined
+[33m702d2462[m isPensioner added in controller for employment-details
+[33m1b126494[m Add post method for employment-details
+[33m3ed44261[m permission added...
+[33m04b63a82[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m447c43ec[m bank details
+[33md26ec0cf[m Remove static mat-option for industry and businesstype
+[33me531502c[m Add static url and method in api service
+[33m2eae7d8a[m Fix error selecting profile and subprofile on init and with pincode as well
+[33m0d36788b[m update code
+[33mfd9a88c0[m error TS2554: Expected 2 arguments, but got 1. ------ SOLVED
+[33m5d4da07a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo commit login chnages
+[33m29d8fd13[m login moudule change
+[33mbcc0485f[m push bank detail code.
+[33me5339242[m Liability and assets task done.
+[33m1b5ff538[m update code after resolved conflict
+[33m730eff9d[m liability and asset task done
+[33m0b95f012[m permission on compontant
+[33m3713537a[m Create tabs for applicant and co-applicant and put values from api response to back in form . Add validation on calender to prevent it from selection from future date
+[33mebf0da17[m login section header for hunter and buery details
+[33ma3cb0ee2[m login header assignee added
+[33me3f8b37a[m login section header updated
+[33ma0d95876[m test
+[33mcbc800e2[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m3b3975b6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mcc049748[m Revert "changes by gautam"
+[33m44aa5367[m Revert "deleted duplicated src backup"
+[33md2ebf501[m test
+[33m5311cda1[m deleted duplicated src backup
+[33m767cab1e[m changes by gautam
+[33mb826eeac[m Change structure of html and component form code to create formgroup on runtime
+[33meb8e8647[m change urls to work on local server
+[33md78cba79[m moved bereau & hunter to login..
+[33ma94997d0[m test
+[33m815ff51c[m api for condition for login fee
+[33mbf82171f[m Fetch applicant list against specific application number
+[33m83de0980[m Add constants for states and pincode
+[33m55bf421e[m Fetch value for sector, industry = employement type and picode
+[33m02e00934[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m5cadbfd4[m API for login fee for permission...
+[33m82fde7f6[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m81ee5c59[m liability and asset: - save post the entire collection at once i.e adding rows in three sections will be pushed in a single request on click of save, task has been done
+[33m639a959d[m Add and remove dynamic validation on SENP and Salaried form fields on runtime
+[33mab49e40d[m Remove Heading Salaried and SENP from employee-details page
+[33m7928ba24[m Add condition on Salried and SENP section to show/hide
+[33m4a9bbe17[m Fetch value for Profile and Subprofile , add toggle show pensioner and show All member
+[33m2ed4d13d[m Fetch value for Profile and Subprofile , add toggle show pensioner and show All member
+[33m3365716f[m Pass applicant id from lead-inform-bar to employment-details page
+[33mad03d5d8[m write method for fetching data for employment-details
+[33mdef138cd[m upload
+[33m5485c05b[m login fee changes
+[33m475a6854[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m931ccb70[m update code
+[33mdf4b306f[m updated on 22-10
+[33md11007d8[m comp update
+[33m6149d627[m remove alert
+[33m9a127cef[m permission chagnes
+[33mcd8dc725[m personal detail permission changes
+[33me535ad28[m reference detail task --add, update and delete work done
+[33m8b0803fa[m new updates
+[33mc6a44d43[m export and permission
+[33m07d483c7[m fix current sub module issue.
+[33m3687e9b4[m fix permission issue on personal detail page
+[33m88d6ae86[m update component wise permission.
+[33ma7d5d02b[m data table export..
+[33m4e9537f0[m design change
+[33m7049f2d0[m updated with new changes
+[33m04d44e17[m select dropdown start from bottom.
+[33mfac4f15c[m select with dropdown from top..
+[33m3f303e55[m new changes
+[33m80962d85[m loan changes
+[33m7e45889b[m loader new
+[33m29290e4f[m export table
+[33mbf258902[m loader & export table
+[33m4f54d5c0[m Loader
+[33m6f79336f[m updates
+[33m3a3d3822[m updates add user and other
+[33m61b417b9[m new changesd
+[33mb7eeef78[m update
+[33m9cf7e00a[m search with select
+[33m8800af9a[m technical firing...
+[33m3e2fbc65[m new form
+[33mccc3fbb7[m changes
+[33m15583a2d[m New fields in Existin obligation section
+[33m2f8bb135[m document checklist
+[33me071fd1b[m changes
+[33m620b4a06[m changes in login component and liab and asset
+[33m54be2a41[m lon
+[33mac9ddee8[m add user
+[33mde42d3b9[m otp password..
+[33m618a135f[m dropdowns and changes
+[33m19ef380c[m updated
+[33m10301034[m changes on reset of liability and asset
+[33m87b8b347[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mc0bf0007[m changes in co applicant
+[33m2853a3d2[m update section wise permission
+[33m8ca44ad3[m check list
+[33m8efb8c4a[m push left menu
+[33m300216b9[m changes
+[33m6c4864e8[m base form
+[33m64af0606[m co applicant
+[33ma53af49b[m document checklst
+[33m2566405f[m Bank Trensfer
+[33md91659ea[m add permission
+[33mc36d65da[m user
+[33madf3c1d5[m add user
+[33mc9ffa230[m loan
+[33m40543165[m co  applicant
+[33m6030175b[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m4d5a5b71[m liability
+[33m1eb5bc3a[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mbd3160b4[m com
+[33m1c989742[m liab and asset local storage
+[33meeb969d9[m no message
+[33m7e95e8e2[m liab hideen
+[33m17c47dba[m new code
+[33mcefb07b5[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33mc8016bd7[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m8939a341[m loan info updated
+[33mb698f6a4[m Dsa updateds
+[33m3d5c2b09[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m18f5e2f9[m adding role files
+[33m14438e04[m personal
+[33m72b2b391[m liab and asset
+[33m338d9cb4[m enabled
+[33m7b77bcff[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m012cb1b3[m Design changes for bank
+[33m3ed4e9a1[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m378bfe0b[m changes
+[33mc6484455[m adding json file for permission module
+[33m1d7e13fa[m dynamic role management
+[33me9222f98[m master and underwriting
+[33m77a9b3a3[m master 2
+[33m556e0a54[m errors fix
+[33m7aa9264f[m loan inform
+[33m3c7a526c[m masters
+[33m78dab9b0[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m018e1460[m changes
+[33mdb53489e[m empl
+[33m96d39723[m empyoo updated
+[33mee1e1269[m mastes 2
+[33m2fce00f5[m liab and asset
+[33m8e215a6a[m master
+[33m66a9f231[m Master product module
+[33m3ab71736[m no message
+[33mf6e3de07[m master
+[33m7fcda325[m auth service
+[33mb8dc4d46[m disable sales and credit officer
+[33m51f99184[m changes
+[33m88f461c7[m no message
+[33m9b3a3b58[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33me3bdff48[m no message
+[33m10dc7db0[m ref data update
+[33mef939e1f[m dsa changes..
+[33m05aa256e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m5e997832[m liability and asset
+[33m024ea150[m DSA Validation
+[33mef447793[m Master
+[33m6e643848[m applied constants
+[33mdafc9ef4[m liability and asset
+[33m841b3e7d[m income details
+[33m789d27c3[m Updating data from api
+[33m104ca1f8[m get itr
+[33m57c0b1cc[m income details
+[33m6c12c229[m header update
+[33m61199601[m On select address value
+[33mc52e1e31[m changes
+[33mb7bc2fb3[m otp
+[33m6318ca87[m personal api
+[33m8f7b38ee[m no message
+[33ma2a61f96[m changes in number only and restricted some characters
+[33m19e0421c[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m2c3d8e3f[m loan info get api
+[33maff4c14a[m "Validation for below screen User & Employee Validation Master Management Role Management -Manage Role User Management Add New User Manage Permission Manage DSA "
+[33m04e62077[m changes and fixes
+[33ma67908af[m loanInfo
+[33mc178274b[m api folder changes
+[33md2fe18a9[m Master Comp Module.
+[33mfa578d8e[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m1e747fe9[m changes and error  handling
+[33md6c4add3[m Insurance Saction under Loan Sanction Bureau Saction under Loan Sanction Loan Appraisal Section Updation Income Section Updation
+[33m84729a1b[m Insurance Comp..
+[33mebad8aa3[m invalid crededntials message
+[33m9b148614[m chnages in logout
+[33ma8ef6209[m token based logout and login
+[33mecfe42e0[m authentication
+[33mf59b568a[m login api
+[33ma7b3abc8[m mat module in single material
+[33m8887d157[m sort on tables
+[33m9d50ef06[m design Chnages
+[33m5d85fddb[m Loan Side Bar
+[33m3be5d297[m Upload Side Bar...
+[33mcc30f80b[m my task and app queue table with search and pagination
+[33m841a3209[m no message
+[33mfaf67704[m Data & Design Changes
+[33m8160299b[m routing and comments
+[33mf0ab9ac5[m Forget Password Link
+[33m623391a1[m Underwriting Updates
+[33mcfeed30b[m REcaptcha
+[33m6897a20f[m Forget Password comp
+[33md501d691[m auth guard
+[33meac13285[m login api
+[33m63edf636[m Login Validation..
+[33m35136f11[m KYC Design Changes
+[33m49362deb[m email pattern
+[33mc377b2be[m Application Query page
+[33md22e6d0f[m Document checklist and side bar main
+[33mc6c47e36[m accept number only validation
+[33m1d94bdff[m Lead Information missing field added
+[33mbaaefc46[m main side bar & application query comp
+[33m95417ba9[m loing changes
+[33mc9574b2f[m Merge branch 'master' of https://github.com/dmihfc/angularrepo
+[33m12b093d9[m Login
+[33me4111ce2[m Component changes
+[33m4a615805[m Login Page updated
+[33m94c42e2d[m Tech Firing
+[33m5a2f4cd3[m Techn Comp
+[33m478c7ffe[m redirect on loan sanction
+[33m9e72dafc[m routing changes
+[33mf55747b2[m error resolve
+[33m1e84996e[m #id removed
+[33mb9820c8f[m Loan Section Routing
+[33mcc602cda[m Loan Senction Comp
+[33m8d012fae[m routes of baseAppliaction
+[33m33cee403[m Comp 4
+[33mab3fd504[m Comp
+[33mae9750dc[m Personal Details Comp
+[33m4a98aeb4[m loan info
+[33m4f6c8921[m Sidebar removed
+[33m131eba27[m Loan Inform details remove from this page
+[33m3d172a3a[m new comp to base application
+[33m831f26f3[m Lazy load on technical
+[33m59043f39[m My task lazy loading
+[33mf36071f3[m lazy loading on loan sanction
+[33m277d37bd[m 
+[33m883b615a[m lazy loading on baseApplication
+[33m07e7349f[m deletions
+[33me01049b8[m 
+[33mb077aa01[m 
+[33mf54b71cf[m second
+[33mb293a25b[m first
+[33m460656c7[m 
+[33m8657eeb3[m 
+[33m71376a25[m Delete hello.html
+[33m164662b7[m Create hello
+[33m91181e4a[m Create hello.html
+[33m1ac11f3e[m 
+[33m1c54b44c[m 
+[33m7edcab77[m 
+[33mf92e3bf2[m 
+[33m1848cd2f[m 
+[33m905321f4[m 
+[33mc4707812[m 
+[33m45e6c43d[m 
+[33me2917ba6[m 
+[33m7d0fd152[m 
+[33m5ef1d960[m 
+[33m9dd98e99[m Delete Test
+[33m5dc9613e[m Create Test
