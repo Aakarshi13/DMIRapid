@@ -47,34 +47,20 @@ DMI-Rapid/
 
 ---
 
+
+---
+
 ## Installation
 
 ### Backend (Spring Boot)
-
-1. Navigate to backend folder:
 ```bash
 cd backend
+./mvnw spring-boot:run  # or ./gradlew bootRun if using Gradle
 
-./mvnw spring-boot:run  # Maven
-# OR
-./gradlew bootRun       # Gradle
-
-
-###Frontend (Angular)
-
-1. Navigate to backend folder
-
+Frontend (Angular)
 cd frontend
-
-
-Install dependencies:
-
 npm install
-
-
-Run the Angular app:
-
 ng serve
 
 
-Open in browser: http://localhost:4200
+
